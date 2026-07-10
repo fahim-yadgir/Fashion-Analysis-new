@@ -1,4 +1,4 @@
-Customer ID,Customer Name,Age,Gender,City,Product ID (ref),Product Name,Brand,Shopping App,Quantity,Unit Selling Price,Total Amount Paid,Purchase Date,Payment Method,Order Status,Customer Rating
+﻿Customer ID,Customer Name,Age,Gender,City,Product ID (ref),Product Name,Brand,Shopping App,Quantity,Unit Selling Price,Total Amount Paid,Purchase Date,Payment Method,Order Status,Customer Rating
 CUST00001,Rohan Patel,43,Other,Mumbai,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,07-04-2025,Debit Card,Returned,1
 CUST00002,Simran Reddy,20,Male,Kolkata,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,03-04-2025,Cash on Delivery,Delivered,1
 CUST00003,Ayaan Iyer,55,Male,Lucknow,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,15-08-2025,UPI,Returned,3

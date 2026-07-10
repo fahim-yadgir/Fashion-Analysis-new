@@ -25,3 +25,4 @@ from customer_purchase_dataset;
 select `Product Name` ,brand,`Shopping App`,`Unit Selling Price`,`Payment Method`
 from customer_purchase_dataset
 where `Unit Selling Price` = (select max(`Unit Selling Price`)from customer_purchase_dataset);
+
