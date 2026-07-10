@@ -1,0 +1,1201 @@
+Customer ID,Customer Name,Age,Gender,City,Product ID (ref),Product Name,Brand,Shopping App,Quantity,Unit Selling Price,Total Amount Paid,Purchase Date,Payment Method,Order Status,Customer Rating
+CUST00001,Rohan Patel,43,Other,Mumbai,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,07-04-2025,Debit Card,Returned,1
+CUST00002,Simran Reddy,20,Male,Kolkata,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,03-04-2025,Cash on Delivery,Delivered,1
+CUST00003,Ayaan Iyer,55,Male,Lucknow,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,15-08-2025,UPI,Returned,3
+CUST00004,Anika Chopra,27,Other,Delhi,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,05-07-2025,UPI,Returned,4
+CUST00005,Pooja Singh,53,Other,Delhi,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,30-07-2025,Net Banking,Cancelled,
+CUST00006,Rahul Mehta,47,Other,Chandigarh,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,12-09-2025,Credit Card,Cancelled,4
+CUST00007,Sai Pillai,37,Other,Ahmedabad,409,Reebok Men Oversized Jacket,Reebok,Snapdeal,3,2156.24,6468.72,05-04-2026,Debit Card,Returned,2
+CUST00008,Ayaan Bansal,44,Male,Indore,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,08-03-2026,UPI,Cancelled,2
+CUST00009,Rohan Mehta,40,Other,Ahmedabad,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,12-03-2025,UPI,Delivered,5
+CUST00010,Arjun Verma,37,Other,Lucknow,377,Puma Unisex Striped Co-ord Set,Puma,Nykaa Fashion,2,1142.748,2285.5,19-10-2025,Wallet,Delivered,5
+CUST00011,Vivaan Malhotra,40,Male,Lucknow,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,12-08-2025,Debit Card,Delivered,4
+CUST00012,Sanya Rao,49,Male,Bengaluru,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,12-10-2025,Credit Card,Shipped,5
+CUST00013,Kiara Chopra,40,Other,Chandigarh,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,04-06-2025,UPI,Delivered,3
+CUST00014,Aadhya Iyer,18,Female,Bhopal,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,16-10-2025,UPI,Delivered,5
+CUST00015,Divya Joshi,54,Female,Bengaluru,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,25-02-2025,Net Banking,Shipped,
+CUST00016,Sanya Rao,43,Female,Delhi,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,05-03-2025,Credit Card,Delivered,4
+CUST00017,Sneha Kumar,25,Female,Lucknow,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,04-06-2025,Cash on Delivery,Delivered,5
+CUST00018,Vivaan Gupta,31,Other,Kolkata,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,22-12-2025,Cash on Delivery,Delivered,5
+CUST00019,Ayaan Singh,49,Female,Ahmedabad,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,28-05-2025,UPI,Cancelled,5
+CUST00020,Sara Kapoor,28,Other,Mumbai,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,06-01-2026,Credit Card,Cancelled,
+CUST00021,Vivaan Bansal,37,Other,Bhopal,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,2,171.78,343.56,25-09-2025,Cash on Delivery,Delivered,3
+CUST00022,Neha Iyer,52,Other,Indore,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,17-08-2025,Cash on Delivery,Shipped,4
+CUST00023,Myra Rao,32,Male,Jaipur,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,30-01-2025,UPI,Shipped,4
+CUST00024,Meera Nair,30,Other,Lucknow,462,Forever 21 Unisex Denim Skirt,Forever 21,Amazon,2,699.32,1398.64,24-12-2025,Debit Card,Delivered,4
+CUST00025,Reyansh Iyer,48,Male,Chennai,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,02-01-2025,Net Banking,Cancelled,5
+CUST00026,Sai Singh,42,Other,Indore,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,21-03-2026,Wallet,Delivered,2
+CUST00027,Sanya Malhotra,43,Other,Delhi,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,11-05-2025,UPI,Delivered,5
+CUST00028,Ishaan Shah,48,Other,Chandigarh,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,15-05-2025,UPI,Delivered,2
+CUST00029,Yash Patel,45,Male,Bhopal,244,Zara Unisex Formal Trousers,Zara,Meesho,1,1403.2,1403.2,15-09-2025,Credit Card,Delivered,
+CUST00030,Myra Pillai,38,Female,Jaipur,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,04-03-2025,Wallet,Delivered,5
+CUST00031,Yash Chopra,50,Male,Jaipur,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,20-01-2025,Net Banking,Shipped,3
+CUST00032,Aarav Patel,29,Male,Ahmedabad,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,05-03-2025,Debit Card,Cancelled,
+CUST00033,Yash Agarwal,48,Male,Chandigarh,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,15-07-2025,Debit Card,Delivered,2
+CUST00034,Simran Malhotra,53,Male,Indore,188,Levi's Men Ripped Saree,Levi's,Nykaa Fashion,1,706.347,706.35,30-03-2026,Debit Card,Returned,
+CUST00035,Simran Reddy,35,Female,Jaipur,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,04-06-2026,Credit Card,Cancelled,
+CUST00036,Sara Agarwal,30,Female,Bengaluru,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,29-03-2026,Debit Card,Delivered,4
+CUST00037,Rahul Gupta,31,Other,Hyderabad,202,Biba Kids Ripped Hoodie,Biba,Nykaa Fashion,2,226.984,453.97,08-06-2025,Wallet,Cancelled,5
+CUST00038,Ishaan Nair,26,Female,Pune,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,12-02-2026,Net Banking,Delivered,4
+CUST00039,Ananya Chopra,50,Female,Chennai,1046,Calvin Klein Women Relaxed Fit Kurta,Calvin Klein,Nykaa Fashion,1,350.608,350.61,23-11-2025,UPI,Cancelled,5
+CUST00040,Vivaan Mehta,53,Female,Ahmedabad,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,06-12-2025,Cash on Delivery,Returned,4
+CUST00041,Simran Gupta,25,Male,Chandigarh,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,06-10-2025,UPI,Shipped,3
+CUST00042,Kiara Patel,45,Other,Bhopal,551,Nike Kids Graphic Co-ord Set,Nike,Snapdeal,2,2102.74,4205.48,02-06-2025,Cash on Delivery,Returned,5
+CUST00043,Rohan Gupta,35,Male,Indore,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,16-03-2025,Debit Card,Delivered,2
+CUST00044,Sara Gupta,32,Male,Hyderabad,183,Levi's Men Graphic Skirt,Levi's,Meesho,2,2215.205,4430.41,12-01-2025,Debit Card,Returned,5
+CUST00045,Kiara Shah,26,Male,Jaipur,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,15-06-2025,Debit Card,Delivered,3
+CUST00046,Priya Das,37,Other,Indore,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,28-05-2026,Wallet,Delivered,4
+CUST00047,Neha Sharma,34,Male,Mumbai,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,14-07-2025,Cash on Delivery,Delivered,4
+CUST00048,Sneha Singh,45,Other,Ahmedabad,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,03-06-2026,Debit Card,Cancelled,4
+CUST00049,Aadhya Mehta,30,Other,Nagpur,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,22-12-2025,UPI,Shipped,3
+CUST00050,Aarav Gupta,34,Female,Bengaluru,1046,Calvin Klein Women Relaxed Fit Kurta,Calvin Klein,Nykaa Fashion,1,350.608,350.61,26-01-2026,Cash on Delivery,Cancelled,4
+CUST00051,Myra Das,20,Female,Bengaluru,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,04-01-2025,Debit Card,Delivered,5
+CUST00052,Rohan Iyer,20,Female,Pune,1046,Calvin Klein Women Relaxed Fit Kurta,Calvin Klein,Nykaa Fashion,1,350.608,350.61,10-12-2025,Net Banking,Delivered,5
+CUST00053,Kiara Bansal,30,Male,Jaipur,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,28-09-2025,UPI,Delivered,5
+CUST00054,Aditya Rao,19,Female,Hyderabad,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,26-06-2026,Credit Card,Cancelled,5
+CUST00055,Rohan Kapoor,27,Female,Nagpur,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,1,465.728,465.73,14-02-2025,Wallet,Returned,5
+CUST00056,Simran Patel,51,Other,Lucknow,742,Tommy Hilfiger Men Oversized Trousers,Tommy Hilfiger,Meesho,1,4433.157,4433.16,24-08-2025,UPI,Delivered,1
+CUST00057,Krishna Joshi,24,Female,Bhopal,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,20-01-2025,Wallet,Returned,4
+CUST00058,Nikhil Nair,18,Female,Indore,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,05-04-2025,Wallet,Returned,2
+CUST00059,Meera Nair,22,Female,Pune,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,25-08-2025,Wallet,Cancelled,5
+CUST00060,Nikhil Rao,22,Female,Chandigarh,2,W Kids Denim Jeans,W,Myntra,2,455.6595,911.32,17-02-2025,Cash on Delivery,Cancelled,4
+CUST00061,Arjun Shah,27,Female,Hyderabad,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,08-11-2025,Cash on Delivery,Returned,3
+CUST00062,Aarav Kapoor,21,Female,Hyderabad,9,Zara Women Relaxed Fit Skirt,Zara,Amazon,1,2020.32,2020.32,11-08-2025,Wallet,Delivered,4
+CUST00063,Yash Das,47,Female,Ahmedabad,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,24-07-2025,Debit Card,Delivered,5
+CUST00064,Vivaan Das,47,Male,Bhopal,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,03-10-2025,Net Banking,Delivered,4
+CUST00065,Arjun Pillai,23,Male,Nagpur,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,16-05-2025,Cash on Delivery,Shipped,
+CUST00066,Kiara Singh,41,Male,Ahmedabad,180,H&M Men Relaxed Fit Shorts,H&M,Nykaa Fashion,2,1188.016,2376.03,08-02-2026,UPI,Delivered,1
+CUST00067,Nikhil Malhotra,43,Female,Nagpur,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,21-01-2026,Debit Card,Delivered,5
+CUST00068,Aarav Mehta,39,Female,Delhi,1099,Tommy Hilfiger Women Denim Shorts,Tommy Hilfiger,Myntra,1,889.162,889.16,13-01-2025,Wallet,Delivered,4
+CUST00069,Pooja Gupta,43,Female,Bhopal,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,15-03-2026,Debit Card,Shipped,1
+CUST00070,Kiara Singh,21,Other,Hyderabad,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,13-09-2025,Debit Card,Delivered,
+CUST00071,Rohan Reddy,41,Female,Chandigarh,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,2,326.004,652.01,14-02-2026,Cash on Delivery,Returned,4
+CUST00072,Sai Verma,44,Female,Lucknow,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,21-10-2025,Net Banking,Delivered,
+CUST00073,Krishna Kumar,48,Female,Chennai,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,24-09-2025,Net Banking,Cancelled,4
+CUST00074,Riya Kapoor,53,Other,Kolkata,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,15-06-2025,UPI,Delivered,
+CUST00075,Nikhil Agarwal,32,Female,Chandigarh,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,2,466.99,933.98,06-04-2026,Net Banking,Delivered,
+CUST00076,Priya Iyer,23,Male,Chennai,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,02-09-2025,Debit Card,Delivered,4
+CUST00077,Vivaan Chopra,42,Female,Nagpur,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,04-10-2025,Debit Card,Shipped,1
+CUST00078,Nikhil Nair,54,Female,Bengaluru,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,1,326.004,326,10-08-2025,UPI,Delivered,4
+CUST00079,Amit Rao,46,Female,Hyderabad,708,Under Armour Men Striped Track Pants,Under Armour,Nykaa Fashion,1,868.704,868.7,11-05-2025,UPI,Delivered,5
+CUST00080,Nikhil Sharma,22,Female,Chandigarh,1017,Forever 21 Kids Regular Fit Hoodie,Forever 21,Ajio,2,1750.432,3500.86,25-04-2026,Net Banking,Delivered,2
+CUST00081,Aadhya Patel,27,Other,Surat,615,Puma Unisex Denim Sweater,Puma,Myntra,2,269.588,539.18,14-04-2026,UPI,Returned,1
+CUST00082,Aarav Patel,32,Other,Chandigarh,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,08-11-2025,Credit Card,Cancelled,4
+CUST00083,Yash Chopra,25,Male,Delhi,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,16-07-2025,Net Banking,Delivered,4
+CUST00084,Aarav Sharma,52,Female,Ahmedabad,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,06-09-2025,Net Banking,Returned,4
+CUST00085,Myra Sharma,44,Other,Surat,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,18-07-2025,Net Banking,Cancelled,5
+CUST00086,Sai Nair,32,Other,Kolkata,353,Forever 21 Women Casual Sweater,Forever 21,Snapdeal,1,3243.5185,3243.52,20-05-2026,UPI,Cancelled,5
+CUST00087,Tanvi Joshi,43,Male,Mumbai,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,01-06-2026,UPI,Delivered,5
+CUST00088,Priya Das,30,Male,Ahmedabad,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,2,359.478,718.96,30-10-2025,UPI,Returned,5
+CUST00089,Diya Iyer,49,Female,Chandigarh,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,30-05-2025,Net Banking,Delivered,4
+CUST00090,Vivaan Shah,27,Female,Mumbai,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,07-02-2026,Net Banking,Cancelled,5
+CUST00091,Ayaan Gupta,28,Female,Pune,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,24-04-2026,UPI,Delivered,5
+CUST00092,Pooja Mehta,46,Male,Delhi,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,24-03-2025,Debit Card,Delivered,2
+CUST00093,Isha Rao,40,Female,Bhopal,36,Roadster Women Regular Fit Jeans,Roadster,Nykaa Fashion,1,756.225,756.23,20-02-2025,Wallet,Delivered,4
+CUST00094,Pooja Agarwal,46,Male,Chennai,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,01-02-2025,Wallet,Delivered,4
+CUST00095,Sanya Verma,42,Male,Ahmedabad,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,21-09-2025,Credit Card,Cancelled,2
+CUST00096,Karan Joshi,35,Female,Lucknow,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,21-11-2025,Debit Card,Delivered,1
+CUST00097,Arjun Sharma,32,Male,Ahmedabad,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,31-01-2026,Debit Card,Delivered,5
+CUST00098,Krishna Kapoor,29,Male,Indore,886,Levi's Kids Floral Shirt,Levi's,Tata CLiQ,1,2831.68,2831.68,04-06-2025,Cash on Delivery,Delivered,5
+CUST00099,Rohan Malhotra,41,Other,Delhi,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,13-06-2025,Credit Card,Delivered,2
+CUST00100,Aditya Kapoor,53,Other,Chennai,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,18-04-2025,UPI,Delivered,2
+CUST00101,Isha Singh,44,Female,Nagpur,509,Forever 21 Women Printed Jeans,Forever 21,Ajio,1,2587.755,2587.76,28-08-2025,Credit Card,Delivered,5
+CUST00102,Myra Agarwal,25,Female,Hyderabad,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,17-01-2026,Debit Card,Cancelled,4
+CUST00103,Priya Malhotra,33,Male,Pune,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,12-07-2025,Debit Card,Delivered,5
+CUST00104,Sara Iyer,50,Other,Pune,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,21-04-2026,UPI,Delivered,1
+CUST00105,Meera Iyer,46,Female,Mumbai,186,Uniqlo Kids Cotton Shirt,Uniqlo,Tata CLiQ,1,2756.894,2756.89,03-05-2025,UPI,Delivered,4
+CUST00106,Arjun Joshi,50,Male,Ahmedabad,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,2,437.68,875.36,07-01-2025,UPI,Cancelled,5
+CUST00107,Isha Verma,41,Female,Bengaluru,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,09-02-2025,Cash on Delivery,Cancelled,4
+CUST00108,Aarav Mehta,44,Other,Chennai,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,1,485.04,485.04,21-03-2025,Credit Card,Delivered,5
+CUST00109,Meera Gupta,44,Male,Indore,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,08-06-2025,Wallet,Returned,2
+CUST00110,Ananya Rao,35,Female,Hyderabad,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,22-02-2025,Debit Card,Cancelled,5
+CUST00111,Tanvi Chopra,19,Female,Surat,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,19-02-2026,Credit Card,Delivered,5
+CUST00112,Ananya Chopra,25,Male,Kolkata,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,17-04-2026,Credit Card,Delivered,1
+CUST00113,Vihaan Agarwal,27,Other,Indore,1130,Peter England Unisex Solid Saree,Peter England,Amazon,1,2974.734,2974.73,15-01-2026,Wallet,Returned,3
+CUST00114,Ishaan Joshi,36,Male,Jaipur,1046,Calvin Klein Women Relaxed Fit Kurta,Calvin Klein,Nykaa Fashion,1,350.608,350.61,22-04-2025,Net Banking,Delivered,4
+CUST00115,Riya Patel,20,Female,Chennai,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,02-02-2026,UPI,Cancelled,3
+CUST00116,Aadhya Shah,43,Other,Bhopal,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,07-07-2025,Cash on Delivery,Delivered,1
+CUST00117,Sanya Bansal,28,Female,Chennai,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,17-07-2025,UPI,Returned,1
+CUST00118,Rohan Singh,42,Other,Ahmedabad,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,10-11-2025,Wallet,Delivered,4
+CUST00119,Myra Chopra,42,Other,Chennai,774,W Women Striped Jacket,W,Myntra,1,405.004,405,03-07-2025,UPI,Delivered,5
+CUST00120,Varun Iyer,46,Other,Indore,57,Uniqlo Men Slim Fit Jacket,Uniqlo,Ajio,1,2462.555,2462.55,30-04-2026,Net Banking,Delivered,2
+CUST00121,Krishna Joshi,45,Female,Delhi,729,Peter England Kids Classic Jacket,Peter England,Meesho,2,3836.547,7673.09,07-06-2026,Wallet,Delivered,1
+CUST00122,Krishna Gupta,38,Other,Jaipur,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,2,485.04,970.08,01-06-2026,Net Banking,Cancelled,3
+CUST00123,Vivaan Gupta,25,Male,Bengaluru,1033,Biba Kids Denim Track Pants,Biba,Flipkart,2,849.663,1699.33,22-10-2025,Credit Card,Cancelled,4
+CUST00124,Arjun Joshi,34,Male,Chennai,768,Biba Women Cotton Trousers,Biba,Ajio,1,4653.15,4653.15,13-04-2026,Credit Card,Delivered,
+CUST00125,Meera Reddy,55,Female,Lucknow,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,17-01-2026,UPI,Delivered,3
+CUST00126,Sanya Kumar,35,Other,Chennai,476,Gap Unisex Striped Co-ord Set,Gap,Flipkart,1,1584.795,1584.8,28-09-2025,UPI,Shipped,
+CUST00127,Vihaan Joshi,46,Other,Jaipur,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,16-09-2025,Cash on Delivery,Cancelled,5
+CUST00128,Pooja Nair,42,Female,Lucknow,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,25-03-2025,Net Banking,Delivered,3
+CUST00129,Vihaan Das,51,Female,Hyderabad,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,2,462.445,924.89,17-11-2025,Wallet,Delivered,1
+CUST00130,Aadhya Patel,36,Other,Surat,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,08-01-2026,UPI,Delivered,5
+CUST00131,Aadhya Shah,20,Male,Mumbai,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,08-11-2025,UPI,Returned,5
+CUST00132,Divya Iyer,44,Other,Hyderabad,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,11-01-2026,Cash on Delivery,Shipped,5
+CUST00133,Ananya Patel,18,Male,Nagpur,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,07-03-2025,Wallet,Delivered,4
+CUST00134,Sanya Nair,18,Male,Surat,436,Tommy Hilfiger Kids Casual Jacket,Tommy Hilfiger,Meesho,1,1146.831,1146.83,31-03-2026,Cash on Delivery,Returned,5
+CUST00135,Myra Kumar,18,Male,Mumbai,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,10-07-2025,Credit Card,Delivered,1
+CUST00136,Reyansh Sharma,53,Other,Pune,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,15-06-2026,Cash on Delivery,Cancelled,
+CUST00137,Tanvi Shah,29,Other,Hyderabad,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,19-02-2025,Wallet,Shipped,5
+CUST00138,Divya Sharma,42,Female,Nagpur,573,Zara Unisex Printed Trousers,Zara,Ajio,1,3610.28,3610.28,09-04-2026,Credit Card,Delivered,2
+CUST00139,Sara Iyer,20,Male,Chennai,1047,Forever 21 Men Ripped Hoodie,Forever 21,Tata CLiQ,3,3067.038,9201.11,27-09-2025,Wallet,Delivered,4
+CUST00140,Rahul Bansal,34,Female,Surat,886,Levi's Kids Floral Shirt,Levi's,Tata CLiQ,1,2831.68,2831.68,29-03-2025,Cash on Delivery,Delivered,3
+CUST00141,Sara Iyer,30,Male,Nagpur,133,Forever 21 Unisex Graphic Blazer,Forever 21,Flipkart,1,4036.14,4036.14,03-02-2026,Debit Card,Returned,4
+CUST00142,Amit Agarwal,48,Female,Bhopal,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,28-01-2025,Net Banking,Cancelled,4
+CUST00143,Riya Reddy,43,Other,Lucknow,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,29-05-2025,UPI,Delivered,2
+CUST00144,Reyansh Shah,28,Female,Bengaluru,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,12-02-2025,Credit Card,Cancelled,1
+CUST00145,Arjun Verma,22,Other,Indore,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,2,388.084,776.17,09-03-2025,Wallet,Delivered,2
+CUST00146,Myra Reddy,31,Male,Mumbai,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,2,299.838,599.68,31-03-2025,Wallet,Cancelled,4
+CUST00147,Meera Singh,26,Male,Indore,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,29-10-2025,Debit Card,Delivered,5
+CUST00148,Sara Sharma,40,Female,Chandigarh,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,12-01-2026,Debit Card,Shipped,
+CUST00149,Meera Das,19,Female,Mumbai,202,Biba Kids Ripped Hoodie,Biba,Nykaa Fashion,2,226.984,453.97,11-04-2025,Debit Card,Delivered,1
+CUST00150,Divya Pillai,31,Other,Bhopal,628,Biba Women Regular Fit Jeans,Biba,Snapdeal,2,762.312,1524.62,22-10-2025,Credit Card,Delivered,1
+CUST00151,Yash Reddy,36,Male,Mumbai,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,19-05-2026,Wallet,Shipped,3
+CUST00152,Nikhil Pillai,40,Other,Hyderabad,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,18-10-2025,Credit Card,Cancelled,4
+CUST00153,Nikhil Kumar,25,Other,Indore,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,2,277.795,555.59,18-04-2025,Wallet,Delivered,5
+CUST00154,Reyansh Rao,43,Other,Delhi,354,Puma Women Denim Jacket,Puma,Tata CLiQ,1,331.29,331.29,26-01-2025,Debit Card,Delivered,4
+CUST00155,Sara Chopra,52,Other,Bengaluru,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,28-08-2025,Net Banking,Delivered,
+CUST00156,Aditya Joshi,55,Female,Jaipur,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,2,449.9925,899.99,07-04-2026,Wallet,Returned,5
+CUST00157,Ananya Malhotra,46,Other,Indore,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,10-05-2025,Debit Card,Delivered,4
+CUST00158,Simran Reddy,35,Female,Indore,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,2,299.838,599.68,08-06-2025,Wallet,Delivered,4
+CUST00159,Rohan Shah,51,Female,Bengaluru,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,22-09-2025,Wallet,Delivered,3
+CUST00160,Reyansh Reddy,42,Male,Bengaluru,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,01-11-2025,Net Banking,Delivered,4
+CUST00161,Reyansh Singh,35,Male,Chandigarh,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,13-01-2025,Net Banking,Shipped,5
+CUST00162,Aadhya Bansal,36,Female,Mumbai,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,19-02-2026,UPI,Cancelled,4
+CUST00163,Rahul Pillai,55,Other,Surat,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,23-08-2025,Wallet,Delivered,2
+CUST00164,Varun Chopra,38,Female,Surat,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,06-09-2025,Net Banking,Cancelled,3
+CUST00165,Sara Chopra,48,Female,Mumbai,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,15-06-2026,Wallet,Cancelled,3
+CUST00166,Rohan Sharma,42,Female,Chandigarh,307,Puma Women Casual Jeans,Puma,Snapdeal,1,1469.084,1469.08,15-09-2025,Cash on Delivery,Delivered,3
+CUST00167,Priya Bansal,40,Male,Bhopal,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,29-07-2025,Wallet,Delivered,
+CUST00168,Vivaan Joshi,51,Female,Kolkata,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,04-08-2025,Wallet,Delivered,5
+CUST00169,Simran Singh,40,Other,Mumbai,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,1,326.004,326,14-02-2026,UPI,Delivered,2
+CUST00170,Tanvi Chopra,40,Other,Hyderabad,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,15-02-2026,Cash on Delivery,Delivered,5
+CUST00171,Varun Reddy,28,Male,Chandigarh,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,2,285.455,570.91,17-07-2025,Net Banking,Cancelled,
+CUST00172,Aadhya Patel,40,Other,Surat,972,Biba Men Floral Blazer,Biba,Ajio,2,2493.99,4987.98,25-04-2026,Debit Card,Shipped,
+CUST00173,Krishna Kapoor,40,Male,Hyderabad,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,1,326.004,326,17-09-2025,Net Banking,Cancelled,3
+CUST00174,Meera Sharma,35,Female,Pune,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,07-05-2026,Net Banking,Delivered,2
+CUST00175,Pooja Patel,37,Female,Mumbai,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,29-11-2025,Credit Card,Returned,5
+CUST00176,Aarav Sharma,31,Male,Surat,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,14-04-2025,Cash on Delivery,Delivered,4
+CUST00177,Diya Malhotra,40,Male,Pune,1084,Allen Solly Unisex Ripped Sweater,Allen Solly,Myntra,2,1089.3375,2178.68,21-06-2025,Cash on Delivery,Cancelled,2
+CUST00178,Riya Reddy,49,Other,Pune,774,W Women Striped Jacket,W,Myntra,1,405.004,405,26-03-2026,Wallet,Delivered,
+CUST00179,Ayaan Nair,44,Male,Bhopal,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,01-03-2025,Net Banking,Delivered,3
+CUST00180,Nikhil Iyer,49,Male,Jaipur,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,1,243.248,243.25,07-01-2025,Credit Card,Shipped,5
+CUST00181,Varun Pillai,49,Other,Hyderabad,161,Van Heusen Women Casual Hoodie,Van Heusen,Flipkart,1,1887.46,1887.46,13-03-2026,Net Banking,Cancelled,2
+CUST00182,Diya Joshi,19,Male,Lucknow,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,05-12-2025,UPI,Returned,5
+CUST00183,Nikhil Patel,20,Male,Nagpur,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,13-12-2025,UPI,Shipped,5
+CUST00184,Karan Kapoor,51,Other,Indore,173,Van Heusen Men Slim Fit Trousers,Van Heusen,Meesho,1,4013.56,4013.56,22-03-2026,Debit Card,Delivered,4
+CUST00185,Vihaan Das,36,Female,Bhopal,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,31-05-2026,Debit Card,Shipped,
+CUST00186,Neha Reddy,49,Male,Chennai,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,03-11-2025,Credit Card,Returned,2
+CUST00187,Aditya Rao,53,Female,Jaipur,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,04-11-2025,UPI,Delivered,1
+CUST00188,Priya Kapoor,21,Other,Chandigarh,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,31-05-2025,Wallet,Cancelled,2
+CUST00189,Isha Verma,47,Other,Indore,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,05-07-2025,UPI,Delivered,2
+CUST00190,Aarav Joshi,26,Female,Jaipur,354,Puma Women Denim Jacket,Puma,Tata CLiQ,2,331.29,662.58,06-11-2025,Credit Card,Delivered,1
+CUST00191,Rohan Sharma,45,Other,Surat,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,25-05-2026,Cash on Delivery,Returned,1
+CUST00192,Ayaan Chopra,54,Other,Chandigarh,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,1,326.004,326,15-01-2025,Wallet,Delivered,3
+CUST00193,Meera Chopra,53,Male,Delhi,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,05-06-2025,Wallet,Delivered,5
+CUST00194,Aarav Sharma,25,Male,Pune,410,Under Armour Women Graphic Co-ord Set,Under Armour,Flipkart,1,4236.984,4236.98,29-04-2026,UPI,Delivered,4
+CUST00195,Sneha Kumar,21,Female,Indore,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,29-05-2025,Wallet,Shipped,2
+CUST00196,Anika Agarwal,49,Female,Surat,847,Gap Men Casual Saree,Gap,Flipkart,1,1812.9135,1812.91,23-02-2025,Wallet,Delivered,1
+CUST00197,Vihaan Sharma,23,Female,Hyderabad,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,19-06-2025,Net Banking,Returned,1
+CUST00198,Rohan Joshi,54,Other,Ahmedabad,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,29-05-2025,UPI,Delivered,3
+CUST00199,Tanvi Kapoor,42,Female,Hyderabad,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,08-12-2025,Debit Card,Delivered,1
+CUST00200,Karan Shah,18,Male,Lucknow,781,Adidas Unisex Printed Sweater,Adidas,Ajio,2,1798.8675,3597.74,15-03-2026,Credit Card,Delivered,5
+CUST00201,Amit Shah,32,Female,Hyderabad,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,27-09-2025,Debit Card,Delivered,3
+CUST00202,Aditya Das,27,Other,Bengaluru,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,2,359.478,718.96,27-05-2026,Debit Card,Returned,2
+CUST00203,Divya Agarwal,49,Female,Pune,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,28-08-2025,Debit Card,Returned,1
+CUST00204,Sanya Malhotra,31,Female,Lucknow,365,Biba Kids Solid Track Pants,Biba,Snapdeal,2,466.902,933.8,30-01-2026,Net Banking,Returned,2
+CUST00205,Divya Joshi,22,Male,Kolkata,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,19-06-2026,Debit Card,Delivered,
+CUST00206,Priya Reddy,31,Male,Delhi,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,24-10-2025,Debit Card,Returned,5
+CUST00207,Sanya Bansal,27,Male,Mumbai,85,Roadster Unisex Striped Shirt,Roadster,Snapdeal,2,2990.1,5980.2,19-01-2026,UPI,Delivered,5
+CUST00208,Sai Patel,38,Other,Mumbai,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,1,457.0995,457.1,22-01-2025,UPI,Delivered,4
+CUST00209,Nikhil Pillai,54,Male,Hyderabad,760,Calvin Klein Unisex Relaxed Fit Jacket,Calvin Klein,Snapdeal,1,1825.41,1825.41,13-03-2026,UPI,Delivered,3
+CUST00210,Sara Verma,39,Male,Bengaluru,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,22-02-2025,UPI,Returned,5
+CUST00211,Varun Kapoor,22,Other,Surat,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,03-04-2025,Debit Card,Delivered,4
+CUST00212,Sai Bansal,43,Male,Ahmedabad,958,Adidas Women Formal Sweater,Adidas,Myntra,1,1958.628,1958.63,29-08-2025,Wallet,Delivered,3
+CUST00213,Aditya Nair,40,Male,Chandigarh,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,18-02-2025,Debit Card,Shipped,
+CUST00214,Meera Verma,24,Male,Chennai,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,02-11-2025,Cash on Delivery,Returned,5
+CUST00215,Reyansh Kapoor,38,Female,Hyderabad,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,08-05-2026,Net Banking,Delivered,5
+CUST00216,Myra Patel,18,Female,Nagpur,466,Calvin Klein Men Floral Track Pants,Calvin Klein,Myntra,1,1377.624,1377.62,10-06-2025,Credit Card,Delivered,5
+CUST00217,Krishna Malhotra,24,Female,Bhopal,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,09-04-2026,Debit Card,Delivered,4
+CUST00218,Meera Singh,41,Male,Chennai,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,04-07-2025,Wallet,Delivered,
+CUST00219,Ishaan Malhotra,27,Female,Kolkata,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,27-01-2025,Debit Card,Returned,4
+CUST00220,Karan Kumar,34,Female,Delhi,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,27-04-2025,Credit Card,Returned,1
+CUST00221,Isha Agarwal,48,Female,Delhi,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,09-01-2026,Net Banking,Delivered,4
+CUST00222,Myra Singh,42,Female,Kolkata,1156,Reebok Kids Ripped Shorts,Reebok,Flipkart,1,1416.11,1416.11,28-10-2025,Credit Card,Cancelled,1
+CUST00223,Sneha Bansal,39,Other,Bengaluru,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,2,449.9925,899.99,24-06-2026,Debit Card,Delivered,5
+CUST00224,Rahul Verma,44,Male,Hyderabad,354,Puma Women Denim Jacket,Puma,Tata CLiQ,1,331.29,331.29,04-07-2025,Cash on Delivery,Shipped,4
+CUST00225,Diya Reddy,23,Male,Chandigarh,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,08-10-2025,Credit Card,Delivered,3
+CUST00226,Priya Pillai,37,Male,Mumbai,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,17-06-2026,Net Banking,Shipped,1
+CUST00227,Yash Joshi,39,Female,Bhopal,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,03-04-2025,UPI,Delivered,5
+CUST00228,Krishna Nair,33,Male,Lucknow,1067,Puma Women Cotton Skirt,Puma,Tata CLiQ,1,835.344,835.34,07-02-2025,Credit Card,Cancelled,5
+CUST00229,Aarav Joshi,51,Female,Jaipur,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,08-09-2025,Debit Card,Shipped,5
+CUST00230,Vihaan Das,24,Other,Ahmedabad,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,28-06-2026,Cash on Delivery,Delivered,1
+CUST00231,Myra Gupta,32,Other,Bengaluru,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,14-09-2025,Cash on Delivery,Shipped,1
+CUST00232,Vivaan Singh,30,Female,Mumbai,542,Levi's Kids Classic Sweater,Levi's,Meesho,3,2412.917,7238.75,21-04-2026,Cash on Delivery,Delivered,5
+CUST00233,Reyansh Joshi,24,Other,Bengaluru,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,22-04-2026,Net Banking,Returned,
+CUST00234,Kiara Singh,25,Male,Kolkata,411,Tommy Hilfiger Women Printed Shirt,Tommy Hilfiger,Flipkart,2,1671.456,3342.91,21-08-2025,Credit Card,Delivered,5
+CUST00235,Sanya Kumar,19,Other,Kolkata,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,23-06-2026,UPI,Delivered,1
+CUST00236,Pooja Mehta,43,Male,Bhopal,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,25-11-2025,Net Banking,Shipped,
+CUST00237,Vihaan Mehta,51,Male,Surat,1030,Zara Unisex Formal Kurta,Zara,Amazon,1,1177.296,1177.3,09-03-2026,Wallet,Cancelled,1
+CUST00238,Pooja Singh,51,Male,Delhi,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,01-06-2026,Wallet,Delivered,4
+CUST00239,Krishna Chopra,43,Female,Surat,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,05-02-2025,Wallet,Returned,4
+CUST00240,Kiara Agarwal,20,Other,Delhi,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,14-01-2025,Net Banking,Delivered,1
+CUST00241,Anika Singh,37,Female,Surat,774,W Women Striped Jacket,W,Myntra,1,405.004,405,11-06-2026,Debit Card,Delivered,5
+CUST00242,Divya Patel,46,Male,Jaipur,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,21-02-2026,Cash on Delivery,Delivered,4
+CUST00243,Myra Gupta,52,Female,Bhopal,1009,Gap Men Graphic Skirt,Gap,Ajio,1,430.528,430.53,15-08-2025,Wallet,Delivered,4
+CUST00244,Pooja Malhotra,53,Female,Lucknow,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,2,399.9,799.8,14-11-2025,UPI,Delivered,5
+CUST00245,Aadhya Reddy,50,Other,Kolkata,762,Peter England Unisex Denim Jeans,Peter England,Meesho,2,2474.808,4949.62,13-01-2025,Debit Card,Delivered,4
+CUST00246,Rohan Agarwal,38,Female,Hyderabad,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,30-10-2025,UPI,Shipped,1
+CUST00247,Ananya Agarwal,22,Other,Bhopal,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,05-03-2025,Cash on Delivery,Delivered,5
+CUST00248,Neha Singh,51,Male,Surat,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,03-03-2026,Debit Card,Cancelled,5
+CUST00249,Krishna Reddy,35,Other,Delhi,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,02-05-2026,Debit Card,Shipped,3
+CUST00250,Tanvi Singh,18,Female,Indore,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,25-05-2026,Net Banking,Returned,3
+CUST00251,Tanvi Nair,25,Female,Bhopal,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,22-10-2025,Wallet,Delivered,4
+CUST00252,Neha Rao,51,Other,Lucknow,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,07-01-2025,Wallet,Shipped,5
+CUST00253,Amit Malhotra,37,Male,Jaipur,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,23-03-2026,Cash on Delivery,Delivered,4
+CUST00254,Sai Mehta,38,Other,Bhopal,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,29-07-2025,Net Banking,Delivered,1
+CUST00255,Vihaan Nair,54,Female,Hyderabad,147,Forever 21 Men Cotton Hoodie,Forever 21,Tata CLiQ,1,2389.4325,2389.43,24-03-2026,Cash on Delivery,Shipped,
+CUST00256,Rahul Rao,47,Female,Mumbai,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,09-04-2026,UPI,Cancelled,2
+CUST00257,Yash Iyer,24,Female,Chennai,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,07-06-2025,Credit Card,Delivered,5
+CUST00258,Sanya Malhotra,55,Female,Nagpur,926,Biba Kids Casual Jeans,Biba,Snapdeal,2,496.106,992.21,05-04-2025,Credit Card,Delivered,5
+CUST00259,Pooja Gupta,37,Other,Bengaluru,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,18-12-2025,Cash on Delivery,Delivered,3
+CUST00260,Yash Das,50,Male,Jaipur,371,Under Armour Unisex Solid Track Pants,Under Armour,Flipkart,2,804.285,1608.57,06-07-2025,UPI,Cancelled,2
+CUST00261,Neha Pillai,20,Other,Kolkata,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,11-11-2025,Wallet,Cancelled,
+CUST00262,Aarav Das,43,Male,Lucknow,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,21-07-2025,Credit Card,Delivered,
+CUST00263,Kiara Agarwal,50,Male,Lucknow,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,05-05-2025,Credit Card,Delivered,
+CUST00264,Simran Singh,19,Male,Delhi,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,1,388.084,388.08,18-05-2026,Net Banking,Returned,5
+CUST00265,Vihaan Sharma,55,Female,Bengaluru,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,10-10-2025,Credit Card,Delivered,4
+CUST00266,Reyansh Pillai,22,Female,Pune,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,21-01-2025,UPI,Delivered,5
+CUST00267,Aditya Malhotra,21,Other,Pune,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,13-06-2025,Cash on Delivery,Shipped,3
+CUST00268,Rohan Sharma,47,Female,Kolkata,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,11-03-2025,Credit Card,Cancelled,5
+CUST00269,Aadhya Chopra,37,Female,Chandigarh,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,07-09-2025,UPI,Delivered,3
+CUST00270,Neha Rao,29,Male,Chandigarh,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,07-01-2026,UPI,Delivered,
+CUST00271,Amit Mehta,43,Other,Delhi,736,Peter England Men Relaxed Fit Sweater,Peter England,Nykaa Fashion,2,2414.235,4828.47,26-12-2025,Cash on Delivery,Delivered,5
+CUST00272,Priya Malhotra,36,Female,Pune,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,26-01-2025,Debit Card,Shipped,3
+CUST00273,Myra Patel,23,Male,Hyderabad,775,Zara Kids Formal T-Shirt,Zara,Flipkart,2,385.389,770.78,11-05-2025,Cash on Delivery,Delivered,5
+CUST00274,Myra Kumar,41,Female,Pune,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,02-08-2025,Debit Card,Delivered,
+CUST00275,Isha Iyer,46,Other,Bengaluru,794,Reebok Men Cotton Kurta,Reebok,Myntra,1,2084.8,2084.8,27-03-2026,Cash on Delivery,Delivered,
+CUST00276,Myra Rao,50,Male,Bengaluru,1171,Gap Unisex Slim Fit Jeans,Gap,Amazon,1,2248.51,2248.51,10-06-2026,UPI,Returned,4
+CUST00277,Amit Sharma,54,Male,Hyderabad,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,30-03-2025,Wallet,Delivered,4
+CUST00278,Rohan Reddy,24,Male,Jaipur,76,Tommy Hilfiger Unisex Relaxed Fit Jeans,Tommy Hilfiger,Flipkart,2,2030.825,4061.65,01-11-2025,Credit Card,Delivered,4
+CUST00279,Sai Iyer,36,Male,Bhopal,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,31-12-2025,Net Banking,Shipped,5
+CUST00280,Krishna Nair,29,Male,Chennai,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,26-12-2025,Net Banking,Delivered,5
+CUST00281,Myra Rao,40,Other,Delhi,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,05-10-2025,Cash on Delivery,Cancelled,4
+CUST00282,Aditya Rao,20,Other,Bengaluru,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,2,409.2725,818.54,07-11-2025,Credit Card,Delivered,1
+CUST00283,Riya Kumar,54,Male,Lucknow,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,18-09-2025,Net Banking,Cancelled,5
+CUST00284,Aarav Singh,36,Male,Chandigarh,879,Allen Solly Men Cotton Hoodie,Allen Solly,Ajio,2,1018.845,2037.69,18-02-2025,Credit Card,Cancelled,2
+CUST00285,Aditya Mehta,31,Female,Nagpur,873,Reebok Unisex Cotton Hoodie,Reebok,Ajio,2,1843.88,3687.76,08-02-2026,Wallet,Returned,4
+CUST00286,Kiara Bansal,23,Female,Kolkata,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,31-05-2026,Wallet,Cancelled,5
+CUST00287,Simran Verma,31,Female,Surat,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,2,426.192,852.38,11-05-2025,Net Banking,Shipped,4
+CUST00288,Aditya Agarwal,34,Male,Jaipur,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,2,320.04,640.08,30-08-2025,Cash on Delivery,Delivered,4
+CUST00289,Vihaan Kumar,40,Female,Kolkata,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,15-11-2025,Credit Card,Delivered,5
+CUST00290,Meera Iyer,33,Male,Jaipur,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,26-12-2025,Wallet,Delivered,3
+CUST00291,Ishaan Pillai,54,Male,Chennai,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,11-03-2026,Credit Card,Cancelled,3
+CUST00292,Varun Rao,31,Male,Nagpur,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,14-05-2026,Credit Card,Delivered,1
+CUST00293,Kiara Das,30,Male,Nagpur,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,15-06-2025,Debit Card,Delivered,5
+CUST00294,Pooja Das,28,Other,Delhi,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,1,485.04,485.04,13-05-2026,UPI,Cancelled,5
+CUST00295,Sara Singh,49,Female,Ahmedabad,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,26-11-2025,UPI,Delivered,2
+CUST00296,Anika Shah,34,Other,Pune,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,29-01-2025,UPI,Shipped,5
+CUST00297,Ishaan Das,41,Male,Surat,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,22-06-2025,UPI,Shipped,4
+CUST00298,Rohan Rao,29,Other,Bhopal,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,13-01-2026,Credit Card,Returned,5
+CUST00299,Sara Iyer,21,Male,Delhi,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,17-02-2026,UPI,Delivered,5
+CUST00300,Rahul Kapoor,28,Female,Lucknow,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,26-05-2025,Wallet,Delivered,3
+CUST00301,Krishna Malhotra,43,Male,Mumbai,581,HRX Women Printed Shirt,HRX,Tata CLiQ,2,1644.398,3288.8,15-07-2025,Credit Card,Cancelled,5
+CUST00302,Aarav Verma,50,Female,Bengaluru,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,26-02-2025,Cash on Delivery,Cancelled,5
+CUST00303,Karan Gupta,46,Male,Surat,233,Gap Men Casual Skirt,Gap,Snapdeal,1,1631.148,1631.15,18-06-2025,Net Banking,Delivered,1
+CUST00304,Sneha Pillai,40,Other,Pune,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,28-11-2025,Cash on Delivery,Delivered,5
+CUST00305,Divya Patel,43,Other,Lucknow,64,H&M Women Solid Kurta,H&M,Ajio,2,486.115,972.23,03-03-2025,Wallet,Cancelled,5
+CUST00306,Riya Pillai,54,Female,Chennai,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,21-05-2025,Debit Card,Shipped,5
+CUST00307,Yash Sharma,30,Male,Surat,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,29-03-2025,Credit Card,Cancelled,5
+CUST00308,Tanvi Joshi,51,Male,Lucknow,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,27-04-2025,Credit Card,Delivered,4
+CUST00309,Ayaan Iyer,34,Other,Delhi,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,15-09-2025,Wallet,Delivered,4
+CUST00310,Varun Iyer,52,Other,Nagpur,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,24-03-2025,Net Banking,Cancelled,2
+CUST00311,Sneha Patel,50,Other,Jaipur,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,2,426.192,852.38,28-04-2025,Wallet,Cancelled,
+CUST00312,Reyansh Malhotra,43,Other,Bengaluru,1163,Puma Men Denim Jacket,Puma,Flipkart,1,2291.208,2291.21,02-05-2026,UPI,Delivered,5
+CUST00313,Vihaan Rao,33,Male,Chennai,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,07-08-2025,Net Banking,Delivered,2
+CUST00314,Krishna Chopra,23,Other,Bhopal,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,30-12-2025,Credit Card,Delivered,5
+CUST00315,Aarav Nair,25,Male,Chennai,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,01-01-2026,Wallet,Delivered,1
+CUST00316,Neha Singh,40,Other,Chennai,377,Puma Unisex Striped Co-ord Set,Puma,Nykaa Fashion,1,1142.748,1142.75,04-02-2025,Wallet,Delivered,4
+CUST00317,Neha Reddy,46,Male,Bhopal,143,HRX Women Casual T-Shirt,HRX,Amazon,2,2595.591,5191.18,27-04-2025,UPI,Delivered,2
+CUST00318,Arjun Nair,29,Male,Jaipur,256,H&M Kids Floral Blazer,H&M,Nykaa Fashion,3,1221.6335,3664.9,25-01-2026,Credit Card,Returned,4
+CUST00319,Divya Nair,46,Male,Mumbai,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,14-05-2026,Cash on Delivery,Delivered,1
+CUST00320,Aditya Gupta,29,Other,Bhopal,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,06-02-2026,Net Banking,Delivered,5
+CUST00321,Sanya Iyer,51,Male,Chennai,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,15-11-2025,Credit Card,Returned,1
+CUST00322,Isha Kumar,41,Other,Ahmedabad,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,02-02-2026,Debit Card,Delivered,1
+CUST00323,Karan Pillai,48,Female,Pune,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,1,326.004,326,16-02-2025,Wallet,Delivered,3
+CUST00324,Kiara Rao,35,Male,Jaipur,832,Zara Unisex Printed Skirt,Zara,Nykaa Fashion,1,1235.7825,1235.78,25-06-2026,Cash on Delivery,Delivered,1
+CUST00325,Reyansh Reddy,45,Other,Lucknow,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,16-10-2025,Credit Card,Shipped,3
+CUST00326,Arjun Das,39,Other,Chennai,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,09-09-2025,Debit Card,Shipped,
+CUST00327,Sanya Mehta,21,Other,Chennai,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,2,345.683,691.37,09-05-2026,Cash on Delivery,Delivered,4
+CUST00328,Myra Joshi,27,Male,Pune,306,W Women Solid Hoodie,W,Snapdeal,2,396.595,793.19,10-04-2026,Net Banking,Delivered,5
+CUST00329,Riya Kumar,55,Male,Bengaluru,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,16-09-2025,Wallet,Returned,
+CUST00330,Karan Gupta,30,Other,Chandigarh,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,08-11-2025,Cash on Delivery,Delivered,5
+CUST00331,Neha Chopra,22,Female,Chennai,724,HRX Women Striped Shorts,HRX,Ajio,1,2650.485,2650.49,21-09-2025,Cash on Delivery,Delivered,3
+CUST00332,Kiara Iyer,19,Male,Mumbai,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,17-10-2025,Cash on Delivery,Cancelled,2
+CUST00333,Priya Iyer,21,Male,Lucknow,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,16-12-2025,Wallet,Delivered,1
+CUST00334,Priya Nair,52,Other,Chandigarh,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,29-01-2025,Credit Card,Delivered,5
+CUST00335,Vivaan Kapoor,43,Other,Surat,268,Puma Unisex Solid T-Shirt,Puma,Flipkart,1,2888.35,2888.35,28-02-2025,Net Banking,Shipped,1
+CUST00336,Sai Shah,39,Female,Lucknow,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,14-01-2025,UPI,Delivered,5
+CUST00337,Vihaan Chopra,39,Male,Delhi,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,27-05-2025,Cash on Delivery,Shipped,2
+CUST00338,Neha Joshi,45,Female,Jaipur,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,2,320.04,640.08,07-06-2025,Wallet,Returned,5
+CUST00339,Aadhya Shah,34,Other,Ahmedabad,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,2,187.192,374.38,13-11-2025,Wallet,Shipped,
+CUST00340,Varun Agarwal,35,Female,Jaipur,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,16-05-2025,Debit Card,Delivered,
+CUST00341,Meera Singh,41,Male,Surat,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,2,466.99,933.98,03-04-2025,UPI,Returned,3
+CUST00342,Ayaan Verma,52,Other,Pune,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,23-09-2025,Cash on Delivery,Delivered,3
+CUST00343,Diya Kumar,51,Male,Chennai,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,29-03-2026,Net Banking,Delivered,5
+CUST00344,Amit Malhotra,31,Female,Indore,224,Uniqlo Kids Denim Track Pants,Uniqlo,Myntra,1,1075.992,1075.99,16-01-2025,UPI,Shipped,5
+CUST00345,Neha Verma,32,Other,Kolkata,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,18-08-2025,UPI,Delivered,1
+CUST00346,Sara Chopra,33,Male,Chennai,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,2,198.228,396.46,12-03-2026,Wallet,Delivered,4
+CUST00347,Nikhil Reddy,54,Male,Ahmedabad,596,Zara Unisex Slim Fit T-Shirt,Zara,Meesho,1,2843.4315,2843.43,20-05-2025,Debit Card,Delivered,2
+CUST00348,Karan Sharma,49,Male,Bengaluru,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,09-04-2026,Credit Card,Returned,1
+CUST00349,Isha Joshi,20,Female,Bengaluru,264,Biba Men Printed Saree,Biba,Flipkart,1,409.854,409.85,01-11-2025,Wallet,Delivered,2
+CUST00350,Ishaan Sharma,26,Female,Bengaluru,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,10-04-2025,Credit Card,Delivered,5
+CUST00351,Sai Chopra,39,Other,Chandigarh,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,1,245.16,245.16,10-12-2025,UPI,Returned,4
+CUST00352,Priya Sharma,20,Male,Jaipur,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,17-03-2026,Wallet,Delivered,1
+CUST00353,Vihaan Mehta,22,Male,Delhi,180,H&M Men Relaxed Fit Shorts,H&M,Nykaa Fashion,1,1188.016,1188.02,23-06-2026,Net Banking,Delivered,3
+CUST00354,Aadhya Agarwal,27,Other,Nagpur,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,27-06-2026,Debit Card,Shipped,5
+CUST00355,Arjun Joshi,31,Male,Nagpur,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,01-07-2025,UPI,Delivered,4
+CUST00356,Arjun Verma,30,Other,Mumbai,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,07-01-2026,Debit Card,Delivered,5
+CUST00357,Aditya Malhotra,52,Female,Jaipur,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,03-10-2025,Net Banking,Delivered,5
+CUST00358,Divya Chopra,42,Male,Kolkata,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,27-05-2025,Wallet,Delivered,4
+CUST00359,Simran Nair,42,Male,Bhopal,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,30-03-2025,Cash on Delivery,Shipped,1
+CUST00360,Vihaan Rao,53,Female,Surat,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,20-11-2025,Net Banking,Returned,1
+CUST00361,Meera Kapoor,50,Female,Lucknow,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,29-08-2025,Wallet,Shipped,5
+CUST00362,Neha Gupta,43,Other,Hyderabad,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,26-11-2025,UPI,Cancelled,
+CUST00363,Aadhya Shah,34,Female,Chandigarh,747,Biba Men Slim Fit Sweater,Biba,Meesho,3,3358.208,10074.62,23-12-2025,Cash on Delivery,Returned,5
+CUST00364,Aadhya Patel,22,Other,Chennai,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,23-06-2025,Debit Card,Delivered,3
+CUST00365,Ishaan Malhotra,29,Other,Bhopal,830,H&M Men Oversized Shirt,H&M,Nykaa Fashion,3,824.14,2472.42,14-02-2025,Debit Card,Delivered,5
+CUST00366,Rahul Singh,44,Male,Nagpur,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,09-01-2026,Debit Card,Cancelled,
+CUST00367,Yash Das,46,Other,Delhi,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,02-04-2026,Wallet,Delivered,5
+CUST00368,Meera Kumar,51,Male,Mumbai,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,16-05-2026,Cash on Delivery,Cancelled,4
+CUST00369,Pooja Bansal,39,Female,Hyderabad,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,01-01-2025,Cash on Delivery,Delivered,1
+CUST00370,Diya Das,52,Female,Chandigarh,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,29-09-2025,Net Banking,Delivered,
+CUST00371,Nikhil Gupta,30,Male,Kolkata,23,Adidas Men Regular Fit Kurta,Adidas,Meesho,1,616.199,616.2,16-01-2026,UPI,Cancelled,5
+CUST00372,Amit Joshi,20,Other,Indore,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,18-03-2026,Wallet,Returned,4
+CUST00373,Neha Iyer,42,Other,Bengaluru,482,Tommy Hilfiger Kids Printed Trousers,Tommy Hilfiger,Amazon,1,2555.13,2555.13,17-01-2026,UPI,Cancelled,4
+CUST00374,Karan Gupta,23,Female,Kolkata,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,24-05-2026,Wallet,Shipped,1
+CUST00375,Reyansh Pillai,54,Female,Chandigarh,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,2,311.252,622.5,23-03-2026,Net Banking,Delivered,3
+CUST00376,Arjun Malhotra,43,Female,Bengaluru,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,2,299.838,599.68,10-01-2025,Wallet,Delivered,4
+CUST00377,Sanya Agarwal,20,Other,Hyderabad,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,2,389.004,778.01,01-02-2026,Net Banking,Delivered,2
+CUST00378,Aadhya Gupta,54,Male,Delhi,380,Gap Men Ripped Sweater,Gap,Meesho,2,162.292,324.58,09-08-2025,Cash on Delivery,Delivered,1
+CUST00379,Priya Mehta,48,Male,Jaipur,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,24-05-2025,Net Banking,Shipped,1
+CUST00380,Ishaan Mehta,39,Male,Jaipur,1079,Under Armour Kids Cotton Blazer,Under Armour,Flipkart,1,970.24,970.24,09-10-2025,Cash on Delivery,Delivered,2
+CUST00381,Rohan Rao,34,Other,Bhopal,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,08-06-2026,Net Banking,Cancelled,1
+CUST00382,Riya Das,33,Female,Indore,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,21-09-2025,Debit Card,Delivered,3
+CUST00383,Vihaan Reddy,52,Other,Chennai,478,Adidas Men Oversized Blazer,Adidas,Snapdeal,3,2983.916,8951.75,16-05-2026,Wallet,Returned,3
+CUST00384,Pooja Mehta,30,Female,Chandigarh,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,22-02-2025,Wallet,Delivered,1
+CUST00385,Divya Gupta,44,Other,Bhopal,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,13-08-2025,Net Banking,Delivered,4
+CUST00386,Isha Pillai,47,Female,Chandigarh,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,28-07-2025,UPI,Delivered,5
+CUST00387,Ayaan Verma,26,Male,Bhopal,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,15-01-2025,Wallet,Returned,3
+CUST00388,Nikhil Iyer,36,Male,Jaipur,1176,Adidas Women Cotton Jacket,Adidas,Tata CLiQ,1,3850.888,3850.89,31-07-2025,Cash on Delivery,Delivered,5
+CUST00389,Reyansh Reddy,23,Male,Kolkata,505,Puma Men Oversized Jacket,Puma,Snapdeal,2,468.736,937.47,21-09-2025,Wallet,Delivered,5
+CUST00390,Ishaan Verma,26,Male,Bengaluru,398,W Kids Slim Fit Track Pants,W,Meesho,1,1693.6075,1693.61,27-08-2025,Cash on Delivery,Shipped,5
+CUST00391,Ishaan Das,34,Female,Jaipur,1191,Van Heusen Men Regular Fit Co-ord Set,Van Heusen,Meesho,1,1160.7635,1160.76,25-08-2025,Net Banking,Delivered,5
+CUST00392,Amit Patel,36,Male,Surat,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,22-07-2025,Net Banking,Delivered,3
+CUST00393,Rahul Mehta,43,Male,Mumbai,209,H&M Kids Denim Blazer,H&M,Myntra,1,832.711,832.71,04-08-2025,Wallet,Returned,
+CUST00394,Arjun Das,49,Female,Mumbai,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,06-04-2025,Credit Card,Delivered,4
+CUST00395,Riya Shah,55,Other,Indore,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,27-04-2026,Debit Card,Shipped,4
+CUST00396,Riya Verma,55,Other,Delhi,746,Biba Men Solid Blazer,Biba,Nykaa Fashion,1,3031.743,3031.74,19-07-2025,Credit Card,Cancelled,4
+CUST00397,Vihaan Kumar,39,Female,Ahmedabad,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,08-01-2026,Credit Card,Delivered,4
+CUST00398,Arjun Agarwal,47,Male,Nagpur,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,2,326.004,652.01,15-06-2025,Cash on Delivery,Delivered,5
+CUST00399,Aditya Verma,20,Other,Lucknow,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,16-05-2025,Net Banking,Returned,5
+CUST00400,Arjun Joshi,28,Female,Bengaluru,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,1,465.728,465.73,06-12-2025,UPI,Shipped,5
+CUST00401,Riya Patel,34,Male,Delhi,589,Van Heusen Kids Regular Fit Co-ord Set,Van Heusen,Nykaa Fashion,1,2279.034,2279.03,06-06-2025,Net Banking,Delivered,
+CUST00402,Divya Singh,38,Female,Pune,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,13-02-2025,Cash on Delivery,Delivered,5
+CUST00403,Priya Das,43,Other,Pune,495,HRX Unisex Formal Shorts,HRX,Snapdeal,1,1162.43,1162.43,29-05-2026,Credit Card,Delivered,1
+CUST00404,Reyansh Verma,49,Other,Lucknow,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,23-08-2025,UPI,Shipped,3
+CUST00405,Ishaan Nair,19,Female,Kolkata,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,26-10-2025,Cash on Delivery,Delivered,2
+CUST00406,Isha Iyer,33,Other,Indore,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,05-03-2025,Credit Card,Delivered,5
+CUST00407,Reyansh Verma,31,Other,Indore,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,2,371.61,743.22,07-11-2025,Debit Card,Delivered,5
+CUST00408,Diya Sharma,38,Female,Indore,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,08-09-2025,Credit Card,Cancelled,
+CUST00409,Ananya Patel,40,Male,Pune,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,06-12-2025,Wallet,Delivered,1
+CUST00410,Meera Verma,49,Other,Indore,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,06-03-2025,Credit Card,Shipped,1
+CUST00411,Pooja Chopra,23,Other,Nagpur,542,Levi's Kids Classic Sweater,Levi's,Meesho,2,2412.917,4825.83,16-06-2025,Net Banking,Cancelled,5
+CUST00412,Krishna Nair,37,Male,Nagpur,1021,Zara Men Oversized Kurta,Zara,Myntra,2,493.165,986.33,18-06-2025,Net Banking,Delivered,
+CUST00413,Riya Pillai,52,Other,Surat,774,W Women Striped Jacket,W,Myntra,2,405.004,810.01,16-09-2025,Credit Card,Delivered,4
+CUST00414,Varun Agarwal,33,Female,Lucknow,561,H&M Kids Formal Trousers,H&M,Flipkart,3,589.7045,1769.11,21-02-2025,Net Banking,Cancelled,5
+CUST00415,Karan Rao,43,Male,Pune,613,Levi's Kids Cotton Kurta,Levi's,Meesho,2,374.648,749.3,14-12-2025,Wallet,Returned,5
+CUST00416,Riya Sharma,37,Female,Lucknow,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,1,245.16,245.16,02-05-2026,Net Banking,Delivered,4
+CUST00417,Varun Patel,39,Other,Pune,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,23-04-2026,Cash on Delivery,Delivered,4
+CUST00418,Karan Gupta,35,Male,Nagpur,207,Van Heusen Men Striped Shirt,Van Heusen,Meesho,2,2259.124,4518.25,05-09-2025,UPI,Delivered,1
+CUST00419,Amit Kumar,42,Female,Chennai,523,W Women Casual Jeans,W,Meesho,1,549.196,549.2,21-06-2025,Credit Card,Delivered,5
+CUST00420,Riya Kapoor,38,Other,Indore,125,Gap Kids Casual Shorts,Gap,Nykaa Fashion,1,2000.352,2000.35,16-06-2025,Net Banking,Returned,1
+CUST00421,Aarav Kumar,24,Male,Ahmedabad,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,14-09-2025,Wallet,Delivered,2
+CUST00422,Simran Rao,26,Female,Surat,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,06-12-2025,Net Banking,Delivered,4
+CUST00423,Pooja Das,42,Other,Indore,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,26-05-2026,Net Banking,Delivered,1
+CUST00424,Vihaan Singh,53,Female,Ahmedabad,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,05-06-2025,Wallet,Returned,5
+CUST00425,Aditya Mehta,48,Male,Mumbai,561,H&M Kids Formal Trousers,H&M,Flipkart,1,589.7045,589.7,28-05-2025,Credit Card,Returned,
+CUST00426,Aditya Rao,29,Other,Lucknow,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,05-09-2025,Debit Card,Shipped,
+CUST00427,Vivaan Chopra,53,Female,Surat,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,25-01-2026,Net Banking,Cancelled,5
+CUST00428,Kiara Mehta,28,Other,Ahmedabad,330,Puma Women Regular Fit Shorts,Puma,Meesho,2,1234.0445,2468.09,22-12-2025,Credit Card,Delivered,
+CUST00429,Vihaan Kumar,37,Other,Jaipur,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,24-02-2025,Cash on Delivery,Delivered,5
+CUST00430,Pooja Kumar,35,Female,Chandigarh,732,Van Heusen Kids Solid Skirt,Van Heusen,Snapdeal,1,1830.069,1830.07,25-11-2025,Net Banking,Delivered,2
+CUST00431,Sara Joshi,43,Female,Kolkata,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,01-10-2025,UPI,Delivered,5
+CUST00432,Simran Chopra,28,Female,Mumbai,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,2,369.62,739.24,27-04-2026,Wallet,Returned,5
+CUST00433,Arjun Nair,43,Female,Nagpur,232,Calvin Klein Kids Printed Saree,Calvin Klein,Meesho,2,607.12,1214.24,23-10-2025,Wallet,Delivered,4
+CUST00434,Sneha Sharma,20,Other,Bhopal,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,29-12-2025,Cash on Delivery,Delivered,4
+CUST00435,Myra Gupta,53,Male,Indore,181,Biba Kids Cotton Jeans,Biba,Meesho,2,386.288,772.58,27-02-2026,Wallet,Delivered,4
+CUST00436,Ananya Kumar,25,Female,Kolkata,350,Peter England Men Printed Track Pants,Peter England,Myntra,3,557.076,1671.23,16-12-2025,Net Banking,Delivered,5
+CUST00437,Karan Joshi,29,Other,Bhopal,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,18-06-2026,Net Banking,Cancelled,4
+CUST00438,Krishna Reddy,39,Other,Delhi,944,Allen Solly Unisex Cotton Blazer,Allen Solly,Tata CLiQ,1,3670.083,3670.08,30-05-2026,UPI,Shipped,4
+CUST00439,Rahul Rao,31,Other,Nagpur,380,Gap Men Ripped Sweater,Gap,Meesho,2,162.292,324.58,16-05-2025,Credit Card,Delivered,4
+CUST00440,Simran Singh,36,Male,Nagpur,1038,Biba Kids Striped Saree,Biba,Tata CLiQ,3,1143.338,3430.01,26-01-2026,Debit Card,Delivered,5
+CUST00441,Kiara Gupta,50,Female,Lucknow,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,13-11-2025,UPI,Delivered,2
+CUST00442,Pooja Sharma,51,Male,Delhi,1125,Under Armour Women Printed Track Pants,Under Armour,Ajio,1,889.3,889.3,12-08-2025,UPI,Delivered,3
+CUST00443,Sneha Nair,50,Male,Ahmedabad,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,03-02-2025,UPI,Returned,5
+CUST00444,Ayaan Kapoor,32,Female,Surat,430,Forever 21 Unisex Printed Skirt,Forever 21,Tata CLiQ,1,4617.94,4617.94,28-06-2026,Cash on Delivery,Delivered,4
+CUST00445,Isha Das,54,Other,Nagpur,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,2,245.16,490.32,27-06-2025,UPI,Shipped,
+CUST00446,Kiara Chopra,41,Male,Surat,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,26-04-2025,Net Banking,Delivered,
+CUST00447,Tanvi Iyer,21,Female,Jaipur,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,15-03-2025,Wallet,Delivered,3
+CUST00448,Rahul Malhotra,47,Male,Chennai,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,17-02-2026,Credit Card,Delivered,4
+CUST00449,Arjun Bansal,19,Female,Indore,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,21-07-2025,Debit Card,Delivered,
+CUST00450,Anika Sharma,19,Male,Chennai,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,28-09-2025,Cash on Delivery,Delivered,3
+CUST00451,Rohan Joshi,37,Male,Mumbai,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,1,243.248,243.25,30-12-2025,Net Banking,Delivered,5
+CUST00452,Reyansh Mehta,24,Male,Chennai,2,W Kids Denim Jeans,W,Myntra,1,455.6595,455.66,13-05-2026,UPI,Delivered,5
+CUST00453,Meera Patel,24,Other,Lucknow,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,03-08-2025,Debit Card,Delivered,1
+CUST00454,Priya Nair,51,Female,Indore,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,14-06-2025,Net Banking,Delivered,3
+CUST00455,Aarav Singh,31,Other,Lucknow,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,10-01-2025,UPI,Delivered,1
+CUST00456,Isha Pillai,52,Male,Bhopal,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,18-04-2026,Net Banking,Shipped,4
+CUST00457,Aarav Iyer,31,Female,Kolkata,753,H&M Women Cotton Hoodie,H&M,Flipkart,1,2879.208,2879.21,10-05-2025,Credit Card,Delivered,5
+CUST00458,Sneha Gupta,54,Other,Nagpur,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,23-06-2025,Net Banking,Cancelled,4
+CUST00459,Meera Kapoor,27,Male,Chandigarh,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,1,243.248,243.25,06-03-2025,Wallet,Delivered,4
+CUST00460,Aarav Rao,54,Other,Bhopal,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,1,245.16,245.16,09-02-2025,Credit Card,Delivered,4
+CUST00461,Aarav Verma,47,Male,Kolkata,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,15-02-2025,Cash on Delivery,Cancelled,5
+CUST00462,Sara Verma,27,Female,Mumbai,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,09-04-2025,Credit Card,Delivered,
+CUST00463,Ananya Shah,50,Female,Delhi,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,03-01-2025,UPI,Shipped,1
+CUST00464,Sai Bansal,53,Other,Lucknow,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,2,160.588,321.18,21-03-2025,Wallet,Delivered,
+CUST00465,Anika Malhotra,43,Other,Mumbai,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,25-01-2025,Credit Card,Shipped,
+CUST00466,Varun Reddy,25,Other,Surat,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,16-03-2026,UPI,Returned,2
+CUST00467,Divya Bansal,40,Other,Delhi,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,14-04-2025,UPI,Delivered,4
+CUST00468,Riya Das,36,Male,Ahmedabad,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,16-07-2025,UPI,Delivered,2
+CUST00469,Aditya Singh,31,Other,Kolkata,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,04-08-2025,Wallet,Shipped,2
+CUST00470,Vivaan Verma,19,Other,Surat,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,26-02-2025,Credit Card,Returned,4
+CUST00471,Sneha Nair,26,Female,Indore,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,30-01-2025,Debit Card,Delivered,2
+CUST00472,Ananya Malhotra,28,Other,Surat,1001,Uniqlo Women Slim Fit Trousers,Uniqlo,Myntra,2,1555.096,3110.19,30-11-2025,Debit Card,Shipped,4
+CUST00473,Aarav Chopra,52,Male,Chennai,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,03-12-2025,UPI,Shipped,4
+CUST00474,Karan Gupta,52,Male,Delhi,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,2,398.496,796.99,18-11-2025,Net Banking,Cancelled,5
+CUST00475,Pooja Gupta,52,Male,Ahmedabad,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,24-02-2025,Wallet,Cancelled,
+CUST00476,Myra Chopra,51,Other,Indore,1171,Gap Unisex Slim Fit Jeans,Gap,Amazon,1,2248.51,2248.51,06-08-2025,Credit Card,Delivered,1
+CUST00477,Sara Chopra,25,Male,Lucknow,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,20-06-2025,Wallet,Cancelled,4
+CUST00478,Sanya Iyer,39,Female,Mumbai,613,Levi's Kids Cotton Kurta,Levi's,Meesho,2,374.648,749.3,03-08-2025,Wallet,Delivered,3
+CUST00479,Arjun Shah,22,Other,Kolkata,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,10-03-2025,Cash on Delivery,Delivered,2
+CUST00480,Pooja Gupta,27,Other,Delhi,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,07-06-2026,Wallet,Delivered,5
+CUST00481,Diya Singh,34,Female,Kolkata,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,27-06-2025,Net Banking,Cancelled,2
+CUST00482,Varun Mehta,38,Male,Mumbai,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,2,473.344,946.69,20-08-2025,UPI,Shipped,4
+CUST00483,Neha Mehta,35,Other,Mumbai,428,Zara Women Graphic Kurta,Zara,Amazon,1,565.5445,565.54,02-04-2025,Credit Card,Shipped,4
+CUST00484,Sara Kumar,20,Male,Ahmedabad,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,1,388.084,388.08,28-01-2026,Debit Card,Cancelled,2
+CUST00485,Aadhya Verma,22,Female,Mumbai,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,30-12-2025,Debit Card,Returned,3
+CUST00486,Krishna Joshi,34,Female,Chennai,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,1,388.084,388.08,25-04-2025,Credit Card,Shipped,3
+CUST00487,Anika Rao,19,Male,Surat,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,29-01-2026,Debit Card,Delivered,5
+CUST00488,Sara Sharma,21,Male,Surat,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,29-08-2025,Debit Card,Delivered,5
+CUST00489,Sneha Kapoor,25,Male,Ahmedabad,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,06-04-2025,Net Banking,Delivered,5
+CUST00490,Meera Kumar,32,Female,Ahmedabad,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,11-03-2025,Debit Card,Delivered,5
+CUST00491,Meera Iyer,39,Other,Mumbai,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,11-05-2026,Wallet,Delivered,5
+CUST00492,Ayaan Verma,45,Other,Mumbai,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,07-06-2026,Debit Card,Delivered,2
+CUST00493,Sai Kapoor,34,Female,Chandigarh,1147,Van Heusen Kids Denim Jacket,Van Heusen,Meesho,3,2102.445,6307.34,15-05-2025,UPI,Shipped,5
+CUST00494,Rohan Singh,31,Female,Surat,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,03-05-2025,Wallet,Delivered,5
+CUST00495,Sara Kumar,50,Male,Surat,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,26-01-2025,Wallet,Delivered,1
+CUST00496,Divya Iyer,49,Other,Lucknow,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,29-05-2025,Net Banking,Shipped,5
+CUST00497,Aditya Joshi,29,Other,Pune,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,25-03-2025,Net Banking,Delivered,1
+CUST00498,Anika Malhotra,26,Male,Hyderabad,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,24-07-2025,UPI,Delivered,1
+CUST00499,Ananya Sharma,41,Female,Pune,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,08-06-2026,Wallet,Delivered,4
+CUST00500,Isha Reddy,48,Male,Hyderabad,164,Allen Solly Kids Oversized Jacket,Allen Solly,Ajio,2,1080.084,2160.17,05-10-2025,Credit Card,Shipped,5
+CUST00501,Aditya Chopra,29,Female,Kolkata,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,18-01-2026,Credit Card,Delivered,1
+CUST00502,Ishaan Shah,34,Other,Ahmedabad,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,31-01-2026,Credit Card,Delivered,4
+CUST00503,Ayaan Nair,44,Male,Chandigarh,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,19-05-2025,Cash on Delivery,Delivered,1
+CUST00504,Ananya Iyer,45,Male,Delhi,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,23-02-2026,Debit Card,Returned,4
+CUST00505,Ishaan Nair,44,Male,Mumbai,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,2,419.482,838.96,17-04-2025,UPI,Delivered,2
+CUST00506,Anika Kumar,26,Female,Delhi,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,2,473.344,946.69,04-11-2025,Wallet,Cancelled,
+CUST00507,Ayaan Malhotra,33,Female,Surat,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,14-01-2026,Cash on Delivery,Returned,4
+CUST00508,Rahul Gupta,55,Female,Lucknow,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,2,292.896,585.79,19-09-2025,Wallet,Delivered,5
+CUST00509,Pooja Bansal,34,Other,Bhopal,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,28-02-2025,Cash on Delivery,Cancelled,5
+CUST00510,Isha Mehta,18,Female,Ahmedabad,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,2,171.78,343.56,04-07-2025,Net Banking,Delivered,4
+CUST00511,Rahul Gupta,31,Other,Kolkata,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,27-08-2025,Debit Card,Cancelled,5
+CUST00512,Amit Kapoor,41,Male,Pune,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,26-04-2025,UPI,Returned,3
+CUST00513,Sanya Shah,44,Other,Delhi,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,07-12-2025,Cash on Delivery,Returned,5
+CUST00514,Neha Chopra,38,Male,Indore,774,W Women Striped Jacket,W,Myntra,1,405.004,405,14-06-2025,Net Banking,Delivered,2
+CUST00515,Anika Agarwal,31,Other,Pune,1021,Zara Men Oversized Kurta,Zara,Myntra,2,493.165,986.33,21-07-2025,Debit Card,Shipped,4
+CUST00516,Sara Kumar,22,Other,Ahmedabad,666,Peter England Kids Floral Jacket,Peter England,Meesho,2,871.703,1743.41,16-02-2025,Credit Card,Delivered,
+CUST00517,Tanvi Agarwal,35,Male,Delhi,1021,Zara Men Oversized Kurta,Zara,Myntra,2,493.165,986.33,27-06-2025,UPI,Cancelled,4
+CUST00518,Aarav Kumar,32,Male,Hyderabad,666,Peter England Kids Floral Jacket,Peter England,Meesho,1,871.703,871.7,20-01-2025,UPI,Delivered,2
+CUST00519,Sai Reddy,27,Female,Chennai,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,24-11-2025,Debit Card,Delivered,5
+CUST00520,Sara Mehta,21,Male,Hyderabad,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,06-03-2025,Cash on Delivery,Delivered,4
+CUST00521,Krishna Mehta,39,Other,Ahmedabad,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,22-02-2025,Credit Card,Shipped,5
+CUST00522,Amit Das,19,Male,Hyderabad,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,2,187.192,374.38,29-04-2026,UPI,Delivered,3
+CUST00523,Priya Malhotra,47,Male,Lucknow,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,29-04-2026,Cash on Delivery,Delivered,3
+CUST00524,Aarav Reddy,55,Male,Delhi,804,Puma Unisex Oversized Jeans,Puma,Flipkart,2,2343.627,4687.25,04-09-2025,Debit Card,Returned,5
+CUST00525,Yash Agarwal,39,Other,Mumbai,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,25-01-2025,Credit Card,Returned,4
+CUST00526,Isha Malhotra,30,Male,Pune,276,Uniqlo Men Ripped Track Pants,Uniqlo,Amazon,3,2173.536,6520.61,25-09-2025,Credit Card,Delivered,1
+CUST00527,Aadhya Malhotra,39,Other,Nagpur,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,14-11-2025,Net Banking,Delivered,
+CUST00528,Riya Verma,38,Male,Hyderabad,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,31-08-2025,Credit Card,Delivered,4
+CUST00529,Varun Sharma,30,Female,Delhi,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,18-06-2026,Debit Card,Cancelled,5
+CUST00530,Yash Das,22,Male,Surat,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,24-03-2026,Net Banking,Delivered,4
+CUST00531,Simran Iyer,46,Female,Bhopal,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,05-03-2026,Wallet,Delivered,
+CUST00532,Sneha Mehta,21,Male,Indore,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,13-10-2025,Credit Card,Delivered,
+CUST00533,Krishna Gupta,47,Other,Lucknow,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,12-03-2025,Wallet,Shipped,5
+CUST00534,Rahul Bansal,23,Male,Kolkata,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,22-02-2025,UPI,Delivered,3
+CUST00535,Yash Singh,22,Female,Bengaluru,85,Roadster Unisex Striped Shirt,Roadster,Snapdeal,2,2990.1,5980.2,21-02-2026,Credit Card,Delivered,3
+CUST00536,Amit Chopra,39,Female,Delhi,70,Calvin Klein Women Printed Hoodie,Calvin Klein,Tata CLiQ,2,1331.743,2663.49,30-04-2025,UPI,Delivered,5
+CUST00537,Meera Iyer,29,Other,Indore,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,07-02-2026,Wallet,Delivered,3
+CUST00538,Priya Kapoor,24,Other,Chennai,934,HRX Unisex Denim Blazer,HRX,Snapdeal,1,3895.3325,3895.33,19-09-2025,Cash on Delivery,Delivered,3
+CUST00539,Rohan Mehta,29,Other,Nagpur,1140,Biba Kids Slim Fit Kurta,Biba,Nykaa Fashion,3,3410.633,10231.9,12-07-2025,Wallet,Delivered,1
+CUST00540,Aarav Iyer,54,Female,Mumbai,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,10-02-2025,UPI,Delivered,4
+CUST00541,Rohan Nair,41,Female,Chennai,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,23-01-2026,Debit Card,Delivered,4
+CUST00542,Aarav Chopra,54,Male,Bhopal,644,H&M Kids Oversized Track Pants,H&M,Ajio,1,1057.264,1057.26,25-06-2025,Credit Card,Shipped,4
+CUST00543,Sara Bansal,38,Female,Kolkata,451,Uniqlo Women Relaxed Fit Shirt,Uniqlo,Tata CLiQ,1,1827.608,1827.61,03-09-2025,Cash on Delivery,Cancelled,5
+CUST00544,Vihaan Joshi,29,Female,Chandigarh,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,2,432.7535,865.51,19-02-2025,Cash on Delivery,Delivered,5
+CUST00545,Meera Malhotra,31,Other,Chennai,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,13-04-2025,UPI,Delivered,1
+CUST00546,Vivaan Iyer,41,Male,Lucknow,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,1,326.004,326,23-02-2025,Credit Card,Shipped,5
+CUST00547,Sanya Das,48,Female,Hyderabad,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,27-04-2026,Debit Card,Delivered,4
+CUST00548,Neha Pillai,24,Other,Lucknow,982,W Unisex Slim Fit Jacket,W,Ajio,2,763.66,1527.32,12-03-2025,Net Banking,Delivered,5
+CUST00549,Aarav Iyer,31,Male,Chennai,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,1,388.084,388.08,08-05-2025,Wallet,Returned,1
+CUST00550,Varun Pillai,54,Female,Mumbai,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,05-04-2025,Credit Card,Returned,4
+CUST00551,Simran Joshi,24,Male,Indore,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,2,450.72,901.44,01-03-2025,Credit Card,Delivered,5
+CUST00552,Ananya Rao,22,Female,Pune,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,12-06-2026,Wallet,Delivered,5
+CUST00553,Divya Bansal,18,Other,Bhopal,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,18-06-2025,Credit Card,Delivered,
+CUST00554,Ayaan Pillai,41,Male,Chandigarh,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,24-01-2025,Cash on Delivery,Shipped,4
+CUST00555,Simran Malhotra,27,Other,Pune,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,25-03-2026,UPI,Delivered,3
+CUST00556,Sara Shah,35,Male,Kolkata,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,25-04-2026,UPI,Delivered,1
+CUST00557,Karan Kumar,33,Other,Hyderabad,259,Zara Unisex Striped Jacket,Zara,Ajio,2,301.294,602.59,29-06-2025,Credit Card,Returned,3
+CUST00558,Priya Pillai,25,Other,Ahmedabad,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,10-08-2025,Debit Card,Shipped,5
+CUST00559,Simran Verma,49,Male,Ahmedabad,129,H&M Men Regular Fit Sweater,H&M,Nykaa Fashion,1,4026.61,4026.61,02-03-2026,Credit Card,Delivered,5
+CUST00560,Ananya Reddy,52,Female,Kolkata,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,23-07-2025,Credit Card,Delivered,5
+CUST00561,Neha Shah,45,Female,Hyderabad,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,02-04-2026,UPI,Delivered,4
+CUST00562,Rohan Singh,50,Female,Bengaluru,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,2,473.745,947.49,27-03-2026,Cash on Delivery,Delivered,5
+CUST00563,Kiara Kapoor,51,Male,Ahmedabad,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,28-05-2026,Credit Card,Delivered,2
+CUST00564,Neha Rao,22,Female,Delhi,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,10-12-2025,Debit Card,Cancelled,5
+CUST00565,Ishaan Malhotra,54,Other,Mumbai,505,Puma Men Oversized Jacket,Puma,Snapdeal,2,468.736,937.47,04-05-2026,Debit Card,Returned,5
+CUST00566,Rahul Shah,37,Male,Jaipur,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,05-01-2025,Wallet,Delivered,5
+CUST00567,Sanya Mehta,55,Other,Surat,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,2,431.681,863.36,10-06-2025,Cash on Delivery,Returned,5
+CUST00568,Diya Das,25,Male,Chandigarh,65,Allen Solly Kids Classic T-Shirt,Allen Solly,Snapdeal,1,2280.63,2280.63,27-11-2025,Net Banking,Delivered,5
+CUST00569,Kiara Joshi,51,Male,Chennai,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,2,171.78,343.56,29-11-2025,Wallet,Delivered,2
+CUST00570,Karan Nair,42,Other,Lucknow,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,2,371.61,743.22,24-09-2025,UPI,Delivered,5
+CUST00571,Arjun Joshi,52,Male,Hyderabad,397,Calvin Klein Kids Oversized Hoodie,Calvin Klein,Ajio,1,2013.12,2013.12,22-05-2026,Credit Card,Cancelled,5
+CUST00572,Vivaan Gupta,30,Male,Mumbai,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,31-05-2025,Debit Card,Delivered,4
+CUST00573,Vihaan Chopra,34,Male,Nagpur,632,Allen Solly Unisex Relaxed Fit Blazer,Allen Solly,Ajio,1,2541.0495,2541.05,28-05-2025,Cash on Delivery,Returned,2
+CUST00574,Ishaan Chopra,30,Male,Nagpur,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,31-01-2026,Net Banking,Delivered,3
+CUST00575,Krishna Das,20,Male,Mumbai,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,23-01-2025,Debit Card,Cancelled,3
+CUST00576,Ayaan Malhotra,28,Male,Bengaluru,1009,Gap Men Graphic Skirt,Gap,Ajio,1,430.528,430.53,22-07-2025,Debit Card,Delivered,5
+CUST00577,Rohan Rao,44,Female,Ahmedabad,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,29-06-2025,Credit Card,Delivered,3
+CUST00578,Neha Verma,46,Other,Lucknow,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,27-03-2026,Cash on Delivery,Shipped,1
+CUST00579,Sneha Malhotra,19,Other,Surat,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,08-06-2026,Credit Card,Shipped,1
+CUST00580,Yash Patel,49,Male,Nagpur,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,05-01-2025,Cash on Delivery,Shipped,
+CUST00581,Aarav Joshi,44,Other,Surat,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,23-02-2026,Debit Card,Delivered,3
+CUST00582,Rohan Rao,30,Female,Chandigarh,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,05-01-2025,Cash on Delivery,Cancelled,5
+CUST00583,Rohan Agarwal,34,Other,Chennai,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,2,305.344,610.69,16-05-2026,Debit Card,Shipped,2
+CUST00584,Nikhil Verma,27,Female,Indore,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,29-10-2025,Cash on Delivery,Returned,5
+CUST00585,Aarav Gupta,55,Male,Delhi,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,22-03-2026,Net Banking,Cancelled,4
+CUST00586,Sai Malhotra,41,Male,Mumbai,202,Biba Kids Ripped Hoodie,Biba,Nykaa Fashion,1,226.984,226.98,03-11-2025,Credit Card,Delivered,4
+CUST00587,Kiara Joshi,31,Other,Jaipur,161,Van Heusen Women Casual Hoodie,Van Heusen,Flipkart,2,1887.46,3774.92,12-10-2025,Net Banking,Cancelled,5
+CUST00588,Sanya Kapoor,25,Male,Nagpur,860,Zara Women Solid Trousers,Zara,Nykaa Fashion,3,2399.3645,7198.09,30-10-2025,UPI,Returned,
+CUST00589,Krishna Joshi,42,Male,Hyderabad,359,Roadster Unisex Solid Saree,Roadster,Snapdeal,1,1661.148,1661.15,01-04-2026,Net Banking,Delivered,2
+CUST00590,Sai Verma,31,Female,Lucknow,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,24-03-2025,Wallet,Delivered,5
+CUST00591,Diya Patel,25,Other,Bengaluru,864,Under Armour Kids Regular Fit Hoodie,Under Armour,Meesho,1,3473.365,3473.36,11-12-2025,Credit Card,Delivered,4
+CUST00592,Meera Iyer,34,Female,Chandigarh,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,06-11-2025,UPI,Cancelled,5
+CUST00593,Divya Shah,46,Male,Delhi,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,17-11-2025,Wallet,Delivered,5
+CUST00594,Aadhya Malhotra,48,Other,Pune,474,Levi's Men Oversized Blazer,Levi's,Nykaa Fashion,1,822.396,822.4,18-06-2026,Wallet,Delivered,
+CUST00595,Rohan Rao,28,Male,Chandigarh,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,02-10-2025,Cash on Delivery,Delivered,2
+CUST00596,Nikhil Pillai,39,Male,Chennai,582,Gap Unisex Solid Blazer,Gap,Tata CLiQ,1,1103.841,1103.84,24-01-2026,UPI,Delivered,5
+CUST00597,Anika Mehta,42,Other,Jaipur,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,2,380.2045,760.41,30-01-2025,Debit Card,Delivered,5
+CUST00598,Ayaan Das,47,Other,Chennai,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,07-01-2026,Net Banking,Cancelled,4
+CUST00599,Divya Kumar,41,Male,Lucknow,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,08-09-2025,Wallet,Returned,2
+CUST00600,Tanvi Sharma,31,Other,Delhi,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,01-05-2025,Credit Card,Cancelled,2
+CUST00601,Anika Singh,30,Other,Lucknow,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,30-09-2025,UPI,Delivered,2
+CUST00602,Kiara Mehta,54,Other,Mumbai,202,Biba Kids Ripped Hoodie,Biba,Nykaa Fashion,1,226.984,226.98,30-06-2026,Credit Card,Delivered,4
+CUST00603,Diya Iyer,24,Male,Chandigarh,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,12-06-2026,Debit Card,Cancelled,5
+CUST00604,Sanya Sharma,22,Other,Bhopal,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,24-04-2025,Wallet,Delivered,
+CUST00605,Ishaan Chopra,41,Other,Mumbai,268,Puma Unisex Solid T-Shirt,Puma,Flipkart,1,2888.35,2888.35,14-03-2026,Cash on Delivery,Returned,5
+CUST00606,Ananya Joshi,41,Other,Bengaluru,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,19-09-2025,Cash on Delivery,Delivered,3
+CUST00607,Ananya Patel,27,Male,Lucknow,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,13-06-2025,Debit Card,Returned,2
+CUST00608,Nikhil Chopra,47,Other,Indore,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,30-08-2025,Net Banking,Delivered,4
+CUST00609,Aarav Iyer,40,Male,Indore,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,01-02-2026,Net Banking,Delivered,5
+CUST00610,Aditya Iyer,21,Female,Jaipur,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,05-07-2025,Credit Card,Delivered,4
+CUST00611,Sai Mehta,23,Female,Surat,365,Biba Kids Solid Track Pants,Biba,Snapdeal,2,466.902,933.8,12-11-2025,UPI,Returned,5
+CUST00612,Myra Patel,29,Female,Kolkata,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,10-06-2026,Net Banking,Delivered,1
+CUST00613,Nikhil Singh,28,Other,Indore,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,10-02-2025,Debit Card,Delivered,2
+CUST00614,Yash Reddy,50,Female,Bengaluru,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,20-03-2026,Debit Card,Cancelled,5
+CUST00615,Sai Iyer,47,Male,Nagpur,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,14-04-2025,Credit Card,Delivered,2
+CUST00616,Divya Das,41,Female,Pune,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,05-12-2025,Credit Card,Delivered,5
+CUST00617,Tanvi Chopra,22,Male,Delhi,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,16-07-2025,Debit Card,Cancelled,2
+CUST00618,Amit Bansal,49,Female,Pune,354,Puma Women Denim Jacket,Puma,Tata CLiQ,1,331.29,331.29,04-04-2026,Debit Card,Delivered,5
+CUST00619,Krishna Patel,22,Female,Kolkata,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,26-01-2025,Wallet,Delivered,1
+CUST00620,Arjun Singh,38,Male,Mumbai,774,W Women Striped Jacket,W,Myntra,1,405.004,405,02-10-2025,Debit Card,Delivered,5
+CUST00621,Tanvi Nair,28,Female,Ahmedabad,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,04-04-2025,Cash on Delivery,Cancelled,5
+CUST00622,Myra Patel,34,Other,Delhi,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,05-04-2025,Wallet,Delivered,1
+CUST00623,Ishaan Verma,40,Male,Bhopal,354,Puma Women Denim Jacket,Puma,Tata CLiQ,1,331.29,331.29,22-11-2025,Wallet,Shipped,
+CUST00624,Sneha Pillai,52,Male,Hyderabad,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,12-12-2025,Credit Card,Delivered,5
+CUST00625,Simran Agarwal,55,Male,Lucknow,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,12-05-2025,Cash on Delivery,Delivered,5
+CUST00626,Rahul Shah,29,Male,Jaipur,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,02-04-2026,Debit Card,Returned,5
+CUST00627,Myra Bansal,52,Female,Jaipur,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,02-02-2025,Debit Card,Delivered,5
+CUST00628,Isha Malhotra,40,Other,Hyderabad,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,05-01-2026,Wallet,Cancelled,4
+CUST00629,Aadhya Chopra,34,Other,Chennai,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,04-03-2025,Debit Card,Delivered,5
+CUST00630,Aditya Chopra,51,Other,Bhopal,551,Nike Kids Graphic Co-ord Set,Nike,Snapdeal,1,2102.74,2102.74,15-12-2025,Debit Card,Delivered,2
+CUST00631,Diya Kapoor,24,Female,Pune,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,14-02-2025,Wallet,Delivered,5
+CUST00632,Tanvi Malhotra,36,Female,Bengaluru,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,07-07-2025,Wallet,Delivered,5
+CUST00633,Kiara Verma,33,Female,Mumbai,839,Levi's Kids Slim Fit Jeans,Levi's,Snapdeal,1,564.851,564.85,14-03-2026,Net Banking,Delivered,3
+CUST00634,Pooja Bansal,25,Male,Chandigarh,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,12-02-2026,Cash on Delivery,Delivered,1
+CUST00635,Sanya Rao,29,Female,Indore,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,27-04-2025,Debit Card,Delivered,3
+CUST00636,Aditya Shah,30,Male,Mumbai,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,26-08-2025,Debit Card,Delivered,4
+CUST00637,Myra Iyer,48,Other,Indore,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,05-05-2025,UPI,Returned,5
+CUST00638,Yash Shah,23,Other,Ahmedabad,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,28-03-2026,Debit Card,Delivered,5
+CUST00639,Aarav Iyer,25,Female,Kolkata,205,Biba Men Graphic Dress,Biba,Snapdeal,2,381.03,762.06,09-03-2026,Credit Card,Delivered,4
+CUST00640,Amit Verma,51,Other,Indore,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,06-05-2026,Net Banking,Delivered,1
+CUST00641,Amit Malhotra,32,Other,Lucknow,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,26-04-2026,Cash on Delivery,Delivered,3
+CUST00642,Reyansh Nair,46,Male,Hyderabad,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,03-01-2025,UPI,Delivered,2
+CUST00643,Diya Joshi,18,Female,Kolkata,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,23-12-2025,Cash on Delivery,Delivered,3
+CUST00644,Reyansh Bansal,51,Female,Delhi,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,2,380.2045,760.41,03-08-2025,Credit Card,Delivered,5
+CUST00645,Karan Shah,53,Other,Hyderabad,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,14-01-2026,UPI,Delivered,
+CUST00646,Rohan Patel,39,Other,Bhopal,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,04-03-2026,UPI,Delivered,4
+CUST00647,Sanya Sharma,28,Other,Pune,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,05-01-2026,Net Banking,Delivered,4
+CUST00648,Diya Malhotra,28,Female,Bhopal,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,21-01-2026,Credit Card,Delivered,5
+CUST00649,Aditya Kapoor,52,Female,Indore,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,11-03-2025,Wallet,Delivered,3
+CUST00650,Sara Bansal,26,Other,Lucknow,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,06-06-2026,Debit Card,Delivered,
+CUST00651,Divya Patel,48,Other,Lucknow,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,1,465.728,465.73,13-11-2025,Debit Card,Cancelled,4
+CUST00652,Divya Shah,54,Male,Surat,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,2,369.24,738.48,24-11-2025,Cash on Delivery,Delivered,5
+CUST00653,Nikhil Malhotra,53,Male,Bhopal,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,24-03-2025,Cash on Delivery,Returned,1
+CUST00654,Simran Patel,35,Male,Bengaluru,1074,Under Armour Women Cotton Skirt,Under Armour,Ajio,2,3287.837,6575.67,24-01-2025,UPI,Returned,4
+CUST00655,Sneha Gupta,47,Other,Pune,867,Allen Solly Kids Slim Fit Dress,Allen Solly,Myntra,1,3453.464,3453.46,18-11-2025,Wallet,Delivered,1
+CUST00656,Krishna Mehta,41,Male,Chandigarh,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,04-05-2025,UPI,Delivered,4
+CUST00657,Kiara Das,23,Male,Ahmedabad,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,06-01-2025,UPI,Cancelled,4
+CUST00658,Aadhya Das,23,Other,Jaipur,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,27-05-2025,Net Banking,Cancelled,
+CUST00659,Varun Rao,47,Male,Pune,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,07-06-2026,Credit Card,Delivered,4
+CUST00660,Sanya Verma,32,Male,Pune,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,2,360.716,721.43,13-01-2026,Net Banking,Returned,5
+CUST00661,Simran Kapoor,19,Other,Indore,790,Uniqlo Kids Striped Shorts,Uniqlo,Nykaa Fashion,2,326.004,652.01,01-01-2026,Net Banking,Delivered,3
+CUST00662,Neha Kapoor,43,Male,Jaipur,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,08-07-2025,Net Banking,Returned,4
+CUST00663,Priya Iyer,40,Other,Indore,752,HRX Women Formal Sweater,HRX,Flipkart,1,3473.3425,3473.34,10-10-2025,Debit Card,Cancelled,2
+CUST00664,Meera Das,42,Other,Lucknow,619,Van Heusen Women Ripped Dress,Van Heusen,Flipkart,1,1847.4495,1847.45,24-03-2026,UPI,Shipped,4
+CUST00665,Sara Patel,53,Other,Lucknow,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,24-06-2025,Debit Card,Cancelled,2
+CUST00666,Rahul Malhotra,45,Other,Nagpur,41,H&M Women Casual Sweater,H&M,Tata CLiQ,1,2055.711,2055.71,14-04-2025,Credit Card,Delivered,3
+CUST00667,Simran Patel,38,Male,Surat,1091,H&M Kids Graphic Blazer,H&M,Myntra,2,2732.709,5465.42,12-10-2025,Credit Card,Delivered,3
+CUST00668,Priya Kumar,48,Other,Jaipur,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,31-05-2026,Net Banking,Shipped,2
+CUST00669,Vivaan Reddy,46,Male,Chandigarh,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,15-04-2025,Cash on Delivery,Delivered,4
+CUST00670,Riya Shah,32,Other,Bengaluru,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,17-04-2025,Net Banking,Shipped,2
+CUST00671,Ananya Das,27,Female,Jaipur,644,H&M Kids Oversized Track Pants,H&M,Ajio,1,1057.264,1057.26,03-03-2025,Cash on Delivery,Shipped,1
+CUST00672,Priya Iyer,31,Male,Hyderabad,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,27-09-2025,Net Banking,Delivered,4
+CUST00673,Aarav Das,47,Male,Chennai,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,28-02-2026,UPI,Shipped,4
+CUST00674,Aarav Singh,39,Other,Delhi,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,24-01-2025,Credit Card,Delivered,5
+CUST00675,Aditya Mehta,42,Female,Surat,266,Puma Kids Floral Co-ord Set,Puma,Myntra,2,1490.874,2981.75,18-08-2025,Debit Card,Delivered,2
+CUST00676,Simran Malhotra,45,Other,Indore,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,2,299.838,599.68,03-05-2026,Debit Card,Delivered,5
+CUST00677,Tanvi Reddy,21,Other,Pune,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,08-09-2025,Cash on Delivery,Returned,2
+CUST00678,Sai Joshi,45,Male,Mumbai,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,11-06-2025,Credit Card,Delivered,3
+CUST00679,Riya Chopra,31,Male,Surat,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,31-10-2025,UPI,Delivered,5
+CUST00680,Rohan Bansal,32,Female,Delhi,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,22-03-2025,Debit Card,Delivered,4
+CUST00681,Riya Agarwal,28,Male,Delhi,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,03-11-2025,UPI,Shipped,5
+CUST00682,Diya Shah,43,Other,Jaipur,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,01-05-2025,Cash on Delivery,Delivered,4
+CUST00683,Nikhil Malhotra,42,Male,Kolkata,813,Zara Men Casual Skirt,Zara,Myntra,2,1468.9935,2937.99,24-07-2025,Debit Card,Delivered,5
+CUST00684,Sanya Bansal,53,Female,Bhopal,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,05-04-2026,Debit Card,Shipped,4
+CUST00685,Ishaan Malhotra,42,Other,Hyderabad,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,16-06-2026,Credit Card,Delivered,3
+CUST00686,Kiara Iyer,25,Other,Mumbai,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,01-04-2026,Wallet,Shipped,4
+CUST00687,Sneha Gupta,24,Male,Kolkata,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,20-01-2025,Net Banking,Delivered,3
+CUST00688,Meera Gupta,19,Male,Bengaluru,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,25-03-2025,UPI,Returned,4
+CUST00689,Yash Gupta,26,Female,Bhopal,567,Calvin Klein Women Denim Kurta,Calvin Klein,Tata CLiQ,2,2337.84,4675.68,15-09-2025,Cash on Delivery,Delivered,5
+CUST00690,Vihaan Pillai,24,Other,Surat,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,01-03-2025,UPI,Delivered,5
+CUST00691,Arjun Pillai,31,Other,Bhopal,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,24-05-2026,Debit Card,Delivered,5
+CUST00692,Vivaan Das,47,Other,Chennai,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,06-06-2026,UPI,Delivered,
+CUST00693,Nikhil Mehta,32,Female,Delhi,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,2,160.588,321.18,31-05-2026,Debit Card,Cancelled,4
+CUST00694,Pooja Iyer,44,Other,Hyderabad,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,04-09-2025,Net Banking,Delivered,4
+CUST00695,Isha Patel,53,Other,Bengaluru,1185,Adidas Unisex Regular Fit Dress,Adidas,Meesho,2,1267.17,2534.34,16-01-2025,UPI,Delivered,3
+CUST00696,Pooja Nair,30,Female,Ahmedabad,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,09-04-2025,Debit Card,Cancelled,2
+CUST00697,Diya Kapoor,51,Other,Kolkata,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,06-02-2026,Net Banking,Cancelled,5
+CUST00698,Priya Joshi,53,Other,Surat,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,14-02-2026,Cash on Delivery,Delivered,4
+CUST00699,Amit Patel,50,Female,Jaipur,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,2,411.654,823.31,25-03-2025,Credit Card,Cancelled,2
+CUST00700,Diya Joshi,35,Female,Ahmedabad,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,13-01-2026,Credit Card,Shipped,
+CUST00701,Diya Kumar,23,Male,Chandigarh,354,Puma Women Denim Jacket,Puma,Tata CLiQ,1,331.29,331.29,05-05-2026,Debit Card,Shipped,2
+CUST00702,Yash Patel,27,Other,Jaipur,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,2,419.482,838.96,03-12-2025,Debit Card,Delivered,2
+CUST00703,Kiara Reddy,43,Male,Kolkata,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,13-01-2025,Net Banking,Shipped,5
+CUST00704,Aarav Singh,32,Female,Hyderabad,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,12-04-2025,Net Banking,Cancelled,5
+CUST00705,Simran Gupta,33,Female,Hyderabad,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,17-01-2026,Cash on Delivery,Delivered,2
+CUST00706,Vivaan Pillai,49,Other,Bengaluru,148,Under Armour Men Oversized Shorts,Under Armour,Amazon,1,665.628,665.63,19-04-2026,Debit Card,Delivered,5
+CUST00707,Ananya Reddy,23,Other,Lucknow,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,10-12-2025,Cash on Delivery,Delivered,4
+CUST00708,Anika Pillai,38,Male,Chandigarh,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,15-04-2025,UPI,Delivered,4
+CUST00709,Sara Nair,45,Other,Ahmedabad,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,22-11-2025,UPI,Cancelled,3
+CUST00710,Ayaan Iyer,26,Male,Bengaluru,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,09-12-2025,Credit Card,Delivered,5
+CUST00711,Meera Verma,29,Male,Bengaluru,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,09-04-2026,UPI,Delivered,5
+CUST00712,Tanvi Bansal,23,Female,Pune,736,Peter England Men Relaxed Fit Sweater,Peter England,Nykaa Fashion,1,2414.235,2414.24,25-02-2026,Credit Card,Delivered,4
+CUST00713,Nikhil Chopra,43,Male,Surat,985,Reebok Unisex Oversized Jacket,Reebok,Flipkart,1,775.915,775.91,27-11-2025,UPI,Returned,5
+CUST00714,Priya Iyer,39,Male,Mumbai,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,10-03-2026,Net Banking,Cancelled,5
+CUST00715,Pooja Singh,55,Female,Lucknow,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,25-09-2025,Net Banking,Returned,2
+CUST00716,Nikhil Agarwal,51,Female,Delhi,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,15-04-2025,Net Banking,Cancelled,5
+CUST00717,Simran Shah,19,Male,Nagpur,354,Puma Women Denim Jacket,Puma,Tata CLiQ,2,331.29,662.58,08-11-2025,UPI,Returned,5
+CUST00718,Kiara Sharma,48,Male,Chennai,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,16-04-2025,Debit Card,Cancelled,1
+CUST00719,Karan Das,52,Male,Chandigarh,241,Forever 21 Women Ripped Jacket,Forever 21,Myntra,2,2881.179,5762.36,30-01-2025,Net Banking,Delivered,
+CUST00720,Ishaan Shah,48,Female,Surat,547,Zara Unisex Cotton Shorts,Zara,Amazon,1,2797.695,2797.7,24-10-2025,Wallet,Delivered,3
+CUST00721,Rohan Verma,33,Male,Chandigarh,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,2,282.822,565.64,26-09-2025,Credit Card,Cancelled,5
+CUST00722,Aadhya Bansal,38,Other,Lucknow,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,2,287.49,574.98,14-04-2025,Credit Card,Delivered,
+CUST00723,Amit Joshi,27,Female,Bengaluru,1037,Zara Unisex Solid Skirt,Zara,Tata CLiQ,1,2507.31,2507.31,15-01-2026,UPI,Returned,4
+CUST00724,Nikhil Verma,25,Male,Bhopal,715,Forever 21 Unisex Relaxed Fit Jacket,Forever 21,Meesho,2,2484.1,4968.2,07-03-2025,Debit Card,Delivered,2
+CUST00725,Ishaan Rao,26,Female,Jaipur,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,05-05-2025,Net Banking,Returned,3
+CUST00726,Nikhil Singh,31,Male,Indore,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,25-02-2025,Debit Card,Delivered,3
+CUST00727,Sneha Bansal,38,Male,Chandigarh,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,07-02-2026,Wallet,Delivered,5
+CUST00728,Kiara Nair,52,Male,Bengaluru,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,05-06-2025,Credit Card,Cancelled,1
+CUST00729,Ayaan Reddy,37,Male,Hyderabad,2,W Kids Denim Jeans,W,Myntra,1,455.6595,455.66,16-10-2025,Wallet,Delivered,
+CUST00730,Ananya Malhotra,24,Male,Chennai,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,15-06-2025,Credit Card,Delivered,1
+CUST00731,Sai Rao,23,Male,Pune,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,24-02-2026,Wallet,Delivered,2
+CUST00732,Vivaan Rao,39,Male,Pune,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,22-12-2025,Net Banking,Returned,5
+CUST00733,Krishna Rao,22,Female,Kolkata,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,01-05-2025,Credit Card,Delivered,5
+CUST00734,Sneha Das,30,Other,Indore,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,02-04-2025,UPI,Delivered,2
+CUST00735,Sneha Chopra,34,Female,Hyderabad,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,30-05-2026,Wallet,Shipped,3
+CUST00736,Simran Chopra,30,Male,Ahmedabad,372,Van Heusen Men Printed Skirt,Van Heusen,Tata CLiQ,1,3916.854,3916.85,21-01-2026,Wallet,Delivered,
+CUST00737,Sai Rao,27,Female,Kolkata,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,29-11-2025,Net Banking,Shipped,5
+CUST00738,Anika Pillai,48,Other,Lucknow,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,1,465.728,465.73,28-05-2026,UPI,Delivered,1
+CUST00739,Kiara Agarwal,49,Female,Chandigarh,1194,Allen Solly Men Formal Skirt,Allen Solly,Amazon,1,2839.599,2839.6,14-03-2026,UPI,Delivered,5
+CUST00740,Priya Gupta,23,Other,Pune,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,01-03-2026,Debit Card,Returned,5
+CUST00741,Rahul Joshi,42,Male,Pune,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,28-04-2025,Cash on Delivery,Cancelled,5
+CUST00742,Tanvi Joshi,54,Female,Surat,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,04-06-2026,Cash on Delivery,Delivered,5
+CUST00743,Sara Rao,38,Female,Nagpur,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,1,457.0995,457.1,08-06-2026,Credit Card,Cancelled,1
+CUST00744,Ananya Verma,40,Female,Indore,2,W Kids Denim Jeans,W,Myntra,1,455.6595,455.66,31-08-2025,Net Banking,Shipped,4
+CUST00745,Sneha Agarwal,44,Other,Delhi,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,26-06-2025,Wallet,Delivered,2
+CUST00746,Amit Patel,51,Other,Hyderabad,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,29-11-2025,Wallet,Delivered,4
+CUST00747,Ayaan Verma,23,Female,Chennai,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,17-02-2026,Wallet,Cancelled,4
+CUST00748,Pooja Malhotra,32,Female,Bengaluru,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,10-04-2026,Wallet,Delivered,3
+CUST00749,Sanya Agarwal,22,Male,Hyderabad,217,W Men Denim Jacket,W,Flipkart,3,1184.131,3552.39,08-10-2025,Cash on Delivery,Delivered,2
+CUST00750,Karan Rao,32,Other,Bhopal,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,01-04-2026,Wallet,Shipped,5
+CUST00751,Pooja Das,49,Male,Lucknow,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,02-08-2025,Wallet,Cancelled,5
+CUST00752,Meera Pillai,40,Other,Chandigarh,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,2,397.968,795.94,11-01-2025,Cash on Delivery,Shipped,1
+CUST00753,Divya Rao,38,Female,Pune,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,03-08-2025,Net Banking,Delivered,5
+CUST00754,Isha Mehta,48,Male,Nagpur,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,21-05-2025,Wallet,Shipped,5
+CUST00755,Isha Das,52,Female,Lucknow,202,Biba Kids Ripped Hoodie,Biba,Nykaa Fashion,1,226.984,226.98,15-11-2025,Net Banking,Delivered,1
+CUST00756,Reyansh Das,40,Other,Pune,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,28-02-2026,Wallet,Delivered,2
+CUST00757,Pooja Pillai,27,Male,Hyderabad,181,Biba Kids Cotton Jeans,Biba,Meesho,1,386.288,386.29,28-02-2026,Debit Card,Cancelled,5
+CUST00758,Anika Agarwal,39,Female,Surat,901,Calvin Klein Kids Relaxed Fit Dress,Calvin Klein,Snapdeal,3,848.232,2544.7,14-01-2025,Credit Card,Delivered,4
+CUST00759,Rohan Reddy,45,Female,Chandigarh,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,13-11-2025,Debit Card,Delivered,
+CUST00760,Kiara Patel,31,Female,Delhi,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,03-05-2025,Cash on Delivery,Delivered,5
+CUST00761,Sara Gupta,55,Female,Ahmedabad,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,14-06-2026,Wallet,Delivered,5
+CUST00762,Tanvi Shah,34,Other,Bengaluru,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,18-05-2025,Credit Card,Delivered,2
+CUST00763,Myra Iyer,33,Male,Pune,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,14-05-2025,Cash on Delivery,Cancelled,5
+CUST00764,Neha Kapoor,41,Other,Mumbai,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,25-08-2025,Net Banking,Returned,5
+CUST00765,Priya Verma,39,Male,Delhi,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,13-05-2026,Credit Card,Returned,
+CUST00766,Diya Singh,51,Other,Bengaluru,628,Biba Women Regular Fit Jeans,Biba,Snapdeal,1,762.312,762.31,07-11-2025,Credit Card,Returned,5
+CUST00767,Meera Gupta,48,Female,Indore,181,Biba Kids Cotton Jeans,Biba,Meesho,2,386.288,772.58,19-12-2025,UPI,Delivered,5
+CUST00768,Priya Reddy,52,Other,Delhi,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,18-08-2025,Cash on Delivery,Shipped,2
+CUST00769,Karan Patel,24,Male,Indore,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,22-11-2025,Debit Card,Cancelled,2
+CUST00770,Tanvi Singh,52,Male,Hyderabad,598,W Unisex Formal Dress,W,Tata CLiQ,2,2737.3965,5474.79,19-04-2026,Net Banking,Delivered,5
+CUST00771,Riya Agarwal,19,Male,Ahmedabad,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,19-12-2025,Wallet,Returned,5
+CUST00772,Priya Gupta,23,Other,Nagpur,256,H&M Kids Floral Blazer,H&M,Nykaa Fashion,1,1221.6335,1221.63,10-05-2025,UPI,Returned,5
+CUST00773,Sneha Shah,34,Female,Chandigarh,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,05-10-2025,Cash on Delivery,Delivered,4
+CUST00774,Krishna Malhotra,31,Other,Bhopal,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,29-01-2025,Wallet,Cancelled,4
+CUST00775,Krishna Kapoor,44,Female,Chandigarh,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,1,465.728,465.73,28-02-2025,Cash on Delivery,Delivered,5
+CUST00776,Aditya Rao,26,Female,Indore,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,09-06-2026,Net Banking,Shipped,3
+CUST00777,Simran Chopra,35,Female,Delhi,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,08-01-2026,Cash on Delivery,Delivered,
+CUST00778,Divya Bansal,29,Other,Pune,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,03-12-2025,Credit Card,Delivered,4
+CUST00779,Ayaan Verma,44,Male,Mumbai,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,1,388.084,388.08,11-05-2026,Wallet,Cancelled,4
+CUST00780,Tanvi Das,31,Male,Jaipur,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,1,388.084,388.08,27-04-2026,Credit Card,Delivered,5
+CUST00781,Isha Mehta,25,Other,Pune,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,09-12-2025,Wallet,Returned,
+CUST00782,Ishaan Verma,35,Other,Mumbai,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,2,457.0995,914.2,08-03-2026,Cash on Delivery,Delivered,3
+CUST00783,Karan Chopra,44,Male,Kolkata,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,06-01-2026,Cash on Delivery,Delivered,3
+CUST00784,Rahul Nair,41,Female,Lucknow,602,Forever 21 Women Solid Blazer,Forever 21,Nykaa Fashion,1,305.344,305.34,28-11-2025,Wallet,Delivered,5
+CUST00785,Nikhil Malhotra,29,Other,Delhi,1009,Gap Men Graphic Skirt,Gap,Ajio,1,430.528,430.53,16-01-2025,Credit Card,Shipped,1
+CUST00786,Anika Malhotra,38,Male,Chandigarh,157,Zara Unisex Relaxed Fit Dress,Zara,Meesho,3,1812.339,5437.02,04-09-2025,Net Banking,Delivered,5
+CUST00787,Sneha Rao,25,Male,Bengaluru,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,2,371.61,743.22,10-01-2026,UPI,Delivered,5
+CUST00788,Ishaan Verma,45,Other,Pune,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,2,409.2725,818.54,01-04-2026,Wallet,Returned,5
+CUST00789,Krishna Singh,55,Male,Kolkata,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,05-05-2025,Cash on Delivery,Delivered,5
+CUST00790,Karan Reddy,54,Female,Delhi,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,2,409.2725,818.54,06-07-2025,Wallet,Cancelled,
+CUST00791,Karan Gupta,38,Other,Mumbai,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,29-06-2025,Wallet,Returned,5
+CUST00792,Aditya Malhotra,25,Female,Jaipur,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,2,386.22,772.44,10-11-2025,Cash on Delivery,Returned,3
+CUST00793,Simran Nair,34,Other,Surat,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,2,489.508,979.02,09-06-2025,Debit Card,Delivered,5
+CUST00794,Isha Shah,28,Other,Pune,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,07-12-2025,Credit Card,Delivered,4
+CUST00795,Sanya Kapoor,43,Male,Indore,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,12-03-2026,Wallet,Delivered,3
+CUST00796,Yash Mehta,31,Female,Hyderabad,696,Peter England Women Slim Fit Track Pants,Peter England,Tata CLiQ,1,723.957,723.96,04-01-2026,Wallet,Shipped,5
+CUST00797,Simran Bansal,31,Male,Bengaluru,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,29-09-2025,UPI,Cancelled,5
+CUST00798,Diya Gupta,34,Male,Pune,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,27-05-2026,Debit Card,Returned,4
+CUST00799,Anika Nair,40,Other,Indore,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,27-04-2025,Cash on Delivery,Delivered,1
+CUST00800,Ananya Pillai,34,Other,Delhi,1156,Reebok Kids Ripped Shorts,Reebok,Flipkart,2,1416.11,2832.22,17-03-2026,Credit Card,Delivered,5
+CUST00801,Divya Mehta,47,Male,Bhopal,13,H&M Men Striped Skirt,H&M,Myntra,1,3924.063,3924.06,01-05-2025,Net Banking,Cancelled,5
+CUST00802,Riya Singh,30,Other,Surat,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,16-10-2025,Debit Card,Delivered,2
+CUST00803,Aadhya Verma,23,Other,Kolkata,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,23-03-2026,Debit Card,Delivered,4
+CUST00804,Ananya Bansal,50,Female,Bengaluru,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,28-06-2025,UPI,Delivered,5
+CUST00805,Simran Bansal,48,Male,Jaipur,26,Levi's Unisex Solid T-Shirt,Levi's,Flipkart,2,1311.397,2622.79,25-04-2026,Credit Card,Delivered,5
+CUST00806,Sai Sharma,38,Male,Mumbai,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,2,287.49,574.98,08-07-2025,Credit Card,Delivered,4
+CUST00807,Reyansh Bansal,28,Female,Surat,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,30-10-2025,Debit Card,Delivered,3
+CUST00808,Sneha Kumar,46,Female,Bengaluru,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,19-05-2025,Cash on Delivery,Delivered,
+CUST00809,Myra Rao,41,Male,Jaipur,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,07-04-2025,Cash on Delivery,Returned,2
+CUST00810,Sara Shah,24,Male,Chandigarh,380,Gap Men Ripped Sweater,Gap,Meesho,2,162.292,324.58,22-02-2026,UPI,Returned,2
+CUST00811,Reyansh Kumar,44,Female,Chennai,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,1,465.728,465.73,08-10-2025,Wallet,Delivered,5
+CUST00812,Neha Mehta,27,Female,Ahmedabad,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,14-12-2025,Debit Card,Delivered,
+CUST00813,Reyansh Mehta,21,Female,Nagpur,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,31-12-2025,Cash on Delivery,Returned,5
+CUST00814,Sneha Nair,26,Male,Indore,582,Gap Unisex Solid Blazer,Gap,Tata CLiQ,3,1103.841,3311.52,28-03-2025,Wallet,Delivered,5
+CUST00815,Aditya Verma,51,Female,Jaipur,186,Uniqlo Kids Cotton Shirt,Uniqlo,Tata CLiQ,1,2756.894,2756.89,25-02-2026,Cash on Delivery,Returned,2
+CUST00816,Krishna Iyer,24,Other,Bengaluru,1032,Levi's Women Formal Shirt,Levi's,Nykaa Fashion,2,1873.155,3746.31,02-01-2025,Credit Card,Delivered,4
+CUST00817,Aarav Iyer,27,Female,Jaipur,1132,Uniqlo Kids Ripped Saree,Uniqlo,Flipkart,1,500.57,500.57,10-06-2025,Cash on Delivery,Shipped,5
+CUST00818,Meera Nair,18,Male,Surat,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,14-05-2026,UPI,Delivered,5
+CUST00819,Krishna Shah,46,Male,Lucknow,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,26-06-2026,Debit Card,Cancelled,1
+CUST00820,Nikhil Agarwal,53,Male,Mumbai,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,12-02-2026,Debit Card,Returned,1
+CUST00821,Nikhil Verma,25,Female,Delhi,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,26-11-2025,Credit Card,Delivered,5
+CUST00822,Sai Malhotra,52,Other,Chandigarh,774,W Women Striped Jacket,W,Myntra,1,405.004,405,28-06-2026,Cash on Delivery,Returned,5
+CUST00823,Nikhil Reddy,45,Male,Kolkata,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,10-05-2025,Cash on Delivery,Delivered,4
+CUST00824,Myra Iyer,33,Male,Chennai,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,21-10-2025,UPI,Delivered,
+CUST00825,Tanvi Das,53,Female,Lucknow,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,2,345.683,691.37,23-06-2025,Net Banking,Delivered,5
+CUST00826,Anika Rao,20,Male,Ahmedabad,72,Gap Men Cotton Kurta,Gap,Myntra,1,3288.1995,3288.2,10-07-2025,Wallet,Shipped,
+CUST00827,Vivaan Kapoor,29,Male,Hyderabad,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,24-04-2025,Debit Card,Delivered,5
+CUST00828,Neha Rao,25,Female,Chennai,707,Reebok Unisex Denim T-Shirt,Reebok,Ajio,1,1593.7925,1593.79,09-11-2025,Credit Card,Delivered,1
+CUST00829,Arjun Malhotra,52,Other,Chennai,427,Adidas Women Denim Skirt,Adidas,Flipkart,2,3097.6205,6195.24,17-04-2025,UPI,Delivered,4
+CUST00830,Tanvi Agarwal,34,Female,Hyderabad,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,28-09-2025,Wallet,Returned,5
+CUST00831,Arjun Pillai,53,Other,Kolkata,1048,Uniqlo Kids Classic Trousers,Uniqlo,Tata CLiQ,1,1867.7285,1867.73,19-01-2025,Debit Card,Delivered,1
+CUST00832,Anika Nair,19,Female,Mumbai,264,Biba Men Printed Saree,Biba,Flipkart,1,409.854,409.85,26-06-2026,Wallet,Delivered,2
+CUST00833,Karan Gupta,52,Other,Hyderabad,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,21-03-2025,Wallet,Shipped,5
+CUST00834,Sneha Iyer,29,Other,Jaipur,178,Under Armour Men Printed Jeans,Under Armour,Snapdeal,2,682.432,1364.86,15-12-2025,Wallet,Delivered,4
+CUST00835,Tanvi Shah,53,Other,Bhopal,408,Peter England Women Printed Sweater,Peter England,Meesho,1,712.945,712.95,26-01-2025,Cash on Delivery,Returned,1
+CUST00836,Ishaan Malhotra,39,Male,Kolkata,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,31-10-2025,Net Banking,Delivered,1
+CUST00837,Sai Agarwal,26,Male,Hyderabad,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,28-06-2025,Wallet,Delivered,1
+CUST00838,Pooja Mehta,19,Male,Kolkata,503,Forever 21 Unisex Solid Hoodie,Forever 21,Myntra,1,366.912,366.91,19-04-2025,Net Banking,Delivered,2
+CUST00839,Aadhya Singh,32,Male,Delhi,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,29-11-2025,Net Banking,Delivered,5
+CUST00840,Ananya Rao,48,Other,Bengaluru,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,2,380.2045,760.41,04-04-2026,Credit Card,Returned,2
+CUST00841,Reyansh Malhotra,53,Female,Delhi,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,15-01-2026,Credit Card,Delivered,5
+CUST00842,Meera Kapoor,42,Other,Bengaluru,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,24-05-2026,Credit Card,Delivered,4
+CUST00843,Reyansh Shah,53,Male,Chennai,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,31-08-2025,Credit Card,Delivered,5
+CUST00844,Simran Kapoor,45,Other,Surat,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,28-07-2025,Credit Card,Delivered,5
+CUST00845,Arjun Gupta,37,Male,Ahmedabad,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,25-04-2026,UPI,Delivered,2
+CUST00846,Aditya Bansal,45,Male,Mumbai,557,W Kids Floral Track Pants,W,Amazon,3,1261.188,3783.56,10-05-2025,Credit Card,Shipped,5
+CUST00847,Tanvi Mehta,31,Female,Surat,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,27-09-2025,Credit Card,Shipped,1
+CUST00848,Myra Mehta,50,Male,Mumbai,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,22-04-2025,UPI,Shipped,5
+CUST00849,Yash Chopra,46,Female,Bhopal,841,Nike Men Regular Fit Track Pants,Nike,Ajio,3,2636.6745,7910.02,08-04-2026,Credit Card,Returned,1
+CUST00850,Ananya Malhotra,38,Other,Hyderabad,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,2,171.78,343.56,29-06-2026,Net Banking,Delivered,4
+CUST00851,Karan Joshi,19,Male,Indore,100,Calvin Klein Kids Floral Skirt,Calvin Klein,Tata CLiQ,2,769.03,1538.06,05-01-2025,Cash on Delivery,Delivered,2
+CUST00852,Meera Gupta,25,Female,Mumbai,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,2,299.838,599.68,29-06-2026,Wallet,Returned,4
+CUST00853,Sanya Iyer,25,Other,Chennai,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,16-06-2026,Net Banking,Cancelled,3
+CUST00854,Yash Sharma,23,Male,Indore,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,29-11-2025,Debit Card,Delivered,1
+CUST00855,Neha Chopra,26,Other,Bhopal,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,08-11-2025,Cash on Delivery,Delivered,4
+CUST00856,Karan Chopra,31,Other,Ahmedabad,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,13-11-2025,UPI,Shipped,5
+CUST00857,Amit Pillai,32,Female,Chandigarh,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,04-04-2025,UPI,Delivered,4
+CUST00858,Divya Singh,49,Male,Bhopal,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,02-02-2025,Credit Card,Delivered,3
+CUST00859,Yash Iyer,54,Female,Kolkata,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,02-06-2025,Wallet,Shipped,5
+CUST00860,Varun Kumar,46,Female,Jaipur,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,2,277.795,555.59,06-11-2025,Credit Card,Returned,4
+CUST00861,Meera Das,54,Other,Surat,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,2,449.9925,899.99,11-01-2026,Wallet,Delivered,
+CUST00862,Krishna Gupta,25,Male,Nagpur,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,21-01-2025,Credit Card,Delivered,3
+CUST00863,Aarav Agarwal,34,Female,Kolkata,497,Biba Unisex Ripped Dress,Biba,Ajio,2,661.545,1323.09,03-01-2025,Debit Card,Cancelled,4
+CUST00864,Rohan Patel,44,Female,Chennai,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,20-01-2025,Cash on Delivery,Shipped,4
+CUST00865,Nikhil Sharma,32,Male,Chandigarh,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,30-07-2025,Net Banking,Delivered,2
+CUST00866,Simran Malhotra,53,Male,Mumbai,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,14-07-2025,Wallet,Returned,5
+CUST00867,Yash Gupta,19,Male,Bhopal,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,2,282.822,565.64,01-11-2025,UPI,Shipped,2
+CUST00868,Ananya Malhotra,40,Male,Pune,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,2,426.192,852.38,26-01-2026,Debit Card,Delivered,4
+CUST00869,Sanya Pillai,25,Other,Kolkata,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,25-02-2026,UPI,Delivered,
+CUST00870,Diya Kumar,26,Female,Bengaluru,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,26-05-2025,Cash on Delivery,Shipped,4
+CUST00871,Nikhil Agarwal,28,Male,Pune,264,Biba Men Printed Saree,Biba,Flipkart,1,409.854,409.85,20-03-2025,Net Banking,Delivered,5
+CUST00872,Sai Iyer,22,Other,Chandigarh,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,07-04-2025,Cash on Delivery,Returned,2
+CUST00873,Reyansh Joshi,33,Other,Kolkata,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,1,369.62,369.62,19-01-2026,Wallet,Delivered,5
+CUST00874,Divya Kumar,52,Other,Indore,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,03-11-2025,Credit Card,Delivered,3
+CUST00875,Sanya Malhotra,32,Female,Indore,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,15-03-2025,Net Banking,Shipped,5
+CUST00876,Tanvi Nair,37,Female,Indore,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,23-05-2026,Wallet,Delivered,5
+CUST00877,Nikhil Joshi,50,Male,Surat,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,12-11-2025,Debit Card,Delivered,5
+CUST00878,Meera Gupta,22,Male,Ahmedabad,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,05-05-2026,Cash on Delivery,Delivered,
+CUST00879,Karan Rao,26,Female,Mumbai,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,11-01-2026,Debit Card,Delivered,5
+CUST00880,Rohan Mehta,44,Female,Lucknow,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,02-06-2025,Credit Card,Delivered,5
+CUST00881,Aadhya Rao,39,Female,Bengaluru,622,H&M Unisex Casual Shorts,H&M,Snapdeal,2,3179.802,6359.6,16-06-2026,UPI,Cancelled,4
+CUST00882,Karan Verma,27,Other,Lucknow,1009,Gap Men Graphic Skirt,Gap,Ajio,1,430.528,430.53,12-11-2025,Debit Card,Delivered,5
+CUST00883,Anika Rao,50,Female,Pune,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,16-08-2025,Net Banking,Delivered,3
+CUST00884,Nikhil Agarwal,25,Male,Ahmedabad,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,01-03-2026,Cash on Delivery,Shipped,4
+CUST00885,Arjun Singh,24,Female,Ahmedabad,1004,Calvin Klein Kids Floral Shorts,Calvin Klein,Amazon,2,1174.884,2349.77,22-03-2025,Net Banking,Delivered,4
+CUST00886,Ishaan Kapoor,26,Male,Bhopal,775,Zara Kids Formal T-Shirt,Zara,Flipkart,2,385.389,770.78,26-07-2025,Cash on Delivery,Delivered,3
+CUST00887,Aadhya Kapoor,35,Female,Mumbai,264,Biba Men Printed Saree,Biba,Flipkart,1,409.854,409.85,29-08-2025,Cash on Delivery,Shipped,4
+CUST00888,Reyansh Das,21,Female,Bhopal,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,21-05-2025,Cash on Delivery,Returned,5
+CUST00889,Krishna Kapoor,18,Male,Pune,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,19-12-2025,Debit Card,Delivered,1
+CUST00890,Rohan Malhotra,22,Male,Kolkata,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,20-09-2025,Wallet,Shipped,2
+CUST00891,Krishna Iyer,50,Male,Chandigarh,441,Gap Kids Denim Trousers,Gap,Amazon,1,3131.3035,3131.3,18-04-2025,Debit Card,Delivered,5
+CUST00892,Yash Rao,29,Male,Bengaluru,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,13-01-2025,Cash on Delivery,Delivered,2
+CUST00893,Arjun Gupta,45,Male,Pune,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,22-08-2025,Credit Card,Delivered,5
+CUST00894,Sai Gupta,42,Other,Chennai,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,1,243.248,243.25,05-02-2025,Cash on Delivery,Delivered,
+CUST00895,Simran Singh,48,Other,Nagpur,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,06-04-2025,Debit Card,Cancelled,2
+CUST00896,Ayaan Rao,24,Female,Mumbai,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,18-02-2025,Debit Card,Shipped,5
+CUST00897,Ayaan Kapoor,33,Other,Ahmedabad,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,13-05-2025,UPI,Returned,3
+CUST00898,Aarav Sharma,22,Male,Hyderabad,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,25-04-2025,UPI,Shipped,5
+CUST00899,Myra Agarwal,18,Male,Lucknow,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,04-06-2026,Cash on Delivery,Delivered,2
+CUST00900,Reyansh Iyer,29,Other,Mumbai,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,23-10-2025,Debit Card,Cancelled,5
+CUST00901,Divya Rao,40,Female,Mumbai,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,13-03-2025,Cash on Delivery,Delivered,1
+CUST00902,Pooja Chopra,47,Other,Kolkata,519,Puma Men Formal Shirt,Puma,Nykaa Fashion,3,3214.96,9644.88,10-03-2026,Credit Card,Delivered,5
+CUST00903,Meera Sharma,27,Male,Bhopal,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,26-05-2026,Net Banking,Cancelled,2
+CUST00904,Anika Singh,34,Male,Jaipur,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,2,316.38,632.76,17-08-2025,Net Banking,Shipped,5
+CUST00905,Myra Joshi,39,Female,Bengaluru,1190,H&M Men Relaxed Fit Sweater,H&M,Myntra,3,1238.872,3716.62,16-01-2026,Credit Card,Delivered,2
+CUST00906,Vivaan Sharma,37,Female,Lucknow,774,W Women Striped Jacket,W,Myntra,1,405.004,405,02-11-2025,Credit Card,Delivered,5
+CUST00907,Aadhya Gupta,47,Other,Indore,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,13-06-2026,Debit Card,Shipped,1
+CUST00908,Riya Pillai,49,Female,Jaipur,1073,Levi's Women Ripped Track Pants,Levi's,Amazon,1,360.876,360.88,26-04-2026,UPI,Returned,5
+CUST00909,Anika Verma,47,Male,Chandigarh,82,Gap Unisex Casual Track Pants,Gap,Nykaa Fashion,2,3558.776,7117.55,03-01-2025,Debit Card,Delivered,4
+CUST00910,Sai Shah,19,Other,Jaipur,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,14-06-2025,UPI,Delivered,1
+CUST00911,Pooja Rao,24,Other,Lucknow,106,Biba Kids Slim Fit Blazer,Biba,Snapdeal,1,389.004,389,28-01-2026,Net Banking,Returned,1
+CUST00912,Ishaan Verma,40,Male,Surat,1185,Adidas Unisex Regular Fit Dress,Adidas,Meesho,2,1267.17,2534.34,18-06-2025,Credit Card,Cancelled,2
+CUST00913,Kiara Malhotra,44,Female,Surat,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,2,473.745,947.49,03-01-2026,UPI,Delivered,2
+CUST00914,Sneha Singh,54,Female,Bengaluru,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,20-04-2026,Wallet,Delivered,4
+CUST00915,Ishaan Singh,22,Other,Jaipur,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,19-05-2026,UPI,Delivered,3
+CUST00916,Divya Patel,49,Other,Chennai,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,16-08-2025,Net Banking,Returned,4
+CUST00917,Tanvi Das,52,Male,Bengaluru,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,08-01-2026,Wallet,Delivered,2
+CUST00918,Kiara Kapoor,21,Female,Chandigarh,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,19-04-2025,UPI,Delivered,5
+CUST00919,Ishaan Mehta,21,Other,Lucknow,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,2,243.248,486.5,01-08-2025,Cash on Delivery,Returned,3
+CUST00920,Arjun Kapoor,26,Other,Hyderabad,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,08-06-2026,Wallet,Delivered,5
+CUST00921,Krishna Rao,53,Other,Mumbai,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,10-02-2025,Debit Card,Returned,2
+CUST00922,Pooja Kumar,49,Male,Hyderabad,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,1,415.3695,415.37,12-06-2025,Cash on Delivery,Cancelled,4
+CUST00923,Anika Agarwal,32,Female,Mumbai,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,20-03-2025,Cash on Delivery,Cancelled,4
+CUST00924,Nikhil Chopra,52,Other,Chandigarh,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,02-01-2026,UPI,Cancelled,3
+CUST00925,Divya Verma,49,Other,Hyderabad,185,Van Heusen Kids Casual Shorts,Van Heusen,Ajio,3,2284.36,6853.08,04-03-2025,Debit Card,Delivered,5
+CUST00926,Kiara Shah,50,Male,Delhi,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,18-03-2025,Cash on Delivery,Returned,2
+CUST00927,Varun Iyer,41,Female,Bhopal,787,Calvin Klein Women Printed Kurta,Calvin Klein,Myntra,1,3583.17,3583.17,08-09-2025,UPI,Cancelled,4
+CUST00928,Amit Chopra,37,Other,Chennai,587,Calvin Klein Unisex Printed Shirt,Calvin Klein,Meesho,2,465.728,931.46,09-01-2026,Cash on Delivery,Delivered,4
+CUST00929,Aarav Agarwal,55,Male,Ahmedabad,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,08-01-2026,Cash on Delivery,Delivered,1
+CUST00930,Priya Pillai,31,Male,Chennai,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,1,457.0995,457.1,15-06-2026,Credit Card,Delivered,5
+CUST00931,Krishna Joshi,30,Other,Ahmedabad,904,Nike Unisex Oversized Trousers,Nike,Snapdeal,3,2490.964,7472.89,02-07-2025,Debit Card,Delivered,5
+CUST00932,Meera Reddy,36,Female,Jaipur,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,20-04-2026,Debit Card,Cancelled,2
+CUST00933,Diya Joshi,42,Female,Bhopal,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,27-03-2026,Cash on Delivery,Delivered,
+CUST00934,Kiara Bansal,48,Male,Pune,434,Forever 21 Unisex Solid T-Shirt,Forever 21,Ajio,1,406.731,406.73,29-03-2025,Net Banking,Delivered,1
+CUST00935,Vihaan Chopra,26,Other,Mumbai,103,Roadster Kids Cotton Hoodie,Roadster,Flipkart,2,1792.735,3585.47,30-05-2025,Debit Card,Returned,5
+CUST00936,Reyansh Malhotra,45,Other,Kolkata,826,Nike Unisex Casual Jacket,Nike,Tata CLiQ,2,388.084,776.17,18-06-2026,Debit Card,Delivered,
+CUST00937,Priya Patel,53,Female,Pune,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,22-12-2025,Wallet,Shipped,5
+CUST00938,Diya Das,45,Male,Chennai,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,15-10-2025,Wallet,Delivered,5
+CUST00939,Karan Das,32,Female,Lucknow,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,16-03-2026,Net Banking,Delivered,4
+CUST00940,Ayaan Kapoor,27,Female,Bengaluru,536,H&M Kids Relaxed Fit Saree,H&M,Meesho,1,380.2045,380.2,16-12-2025,Credit Card,Shipped,4
+CUST00941,Myra Kumar,47,Male,Nagpur,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,15-09-2025,UPI,Shipped,2
+CUST00942,Nikhil Chopra,52,Female,Nagpur,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,03-05-2026,Debit Card,Delivered,2
+CUST00943,Sai Rao,22,Female,Hyderabad,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,1,485.04,485.04,16-09-2025,UPI,Delivered,3
+CUST00944,Arjun Bansal,33,Female,Bhopal,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,20-03-2026,UPI,Shipped,3
+CUST00945,Priya Joshi,36,Other,Hyderabad,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,22-05-2025,Net Banking,Returned,3
+CUST00946,Nikhil Nair,30,Male,Hyderabad,899,Allen Solly Women Casual Shorts,Allen Solly,Flipkart,2,4325.355,8650.71,29-10-2025,Cash on Delivery,Cancelled,4
+CUST00947,Aditya Gupta,31,Other,Bengaluru,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,28-02-2025,UPI,Delivered,5
+CUST00948,Yash Reddy,42,Male,Jaipur,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,2,485.04,970.08,19-02-2025,Credit Card,Delivered,3
+CUST00949,Aditya Bansal,23,Other,Jaipur,505,Puma Men Oversized Jacket,Puma,Snapdeal,1,468.736,468.74,11-06-2026,Net Banking,Delivered,5
+CUST00950,Aditya Chopra,50,Other,Mumbai,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,22-12-2025,UPI,Delivered,3
+CUST00951,Amit Shah,21,Other,Surat,688,Biba Women Relaxed Fit Kurta,Biba,Myntra,1,360.716,360.72,18-05-2025,Wallet,Shipped,3
+CUST00952,Simran Sharma,42,Male,Bhopal,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,26-04-2025,Cash on Delivery,Cancelled,5
+CUST00953,Yash Kumar,18,Female,Indore,393,H&M Unisex Formal Jeans,H&M,Flipkart,2,387.01,774.02,13-02-2025,Credit Card,Shipped,5
+CUST00954,Sai Reddy,25,Female,Indore,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,20-04-2026,Credit Card,Delivered,5
+CUST00955,Diya Rao,48,Other,Delhi,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,30-10-2025,Net Banking,Cancelled,1
+CUST00956,Sanya Joshi,50,Other,Indore,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,25-09-2025,Net Banking,Delivered,2
+CUST00957,Ishaan Mehta,51,Male,Surat,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,11-04-2026,Net Banking,Delivered,5
+CUST00958,Divya Shah,31,Male,Mumbai,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,10-04-2025,Cash on Delivery,Shipped,3
+CUST00959,Sai Verma,55,Male,Delhi,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,2,399.9,799.8,25-02-2026,Cash on Delivery,Delivered,
+CUST00960,Pooja Bansal,25,Other,Kolkata,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,08-07-2025,Wallet,Cancelled,2
+CUST00961,Sneha Gupta,52,Female,Chennai,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,05-04-2025,Cash on Delivery,Returned,3
+CUST00962,Pooja Malhotra,30,Female,Bengaluru,1063,W Men Cotton Dress,W,Ajio,1,3205.433,3205.43,31-07-2025,Debit Card,Returned,
+CUST00963,Myra Malhotra,44,Female,Bhopal,527,Puma Unisex Classic Co-ord Set,Puma,Tata CLiQ,2,1235.985,2471.97,14-01-2025,Net Banking,Delivered,4
+CUST00964,Meera Chopra,48,Female,Bhopal,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,13-01-2025,Credit Card,Delivered,4
+CUST00965,Divya Das,28,Male,Chandigarh,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,31-12-2025,Credit Card,Shipped,2
+CUST00966,Yash Patel,20,Other,Hyderabad,994,Uniqlo Unisex Ripped Shorts,Uniqlo,Myntra,1,684.912,684.91,28-06-2025,Wallet,Delivered,4
+CUST00967,Sneha Agarwal,32,Other,Delhi,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,11-01-2025,Wallet,Returned,2
+CUST00968,Sneha Das,53,Other,Chandigarh,306,W Women Solid Hoodie,W,Snapdeal,2,396.595,793.19,26-06-2026,Credit Card,Delivered,3
+CUST00969,Sai Patel,22,Other,Kolkata,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,1,243.248,243.25,08-06-2026,Cash on Delivery,Cancelled,1
+CUST00970,Yash Nair,22,Other,Indore,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,18-03-2025,Cash on Delivery,Cancelled,3
+CUST00971,Ananya Kapoor,28,Male,Chennai,524,Zara Unisex Denim Kurta,Zara,Ajio,1,370.504,370.5,11-01-2026,Cash on Delivery,Delivered,3
+CUST00972,Priya Gupta,20,Other,Indore,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,28-09-2025,UPI,Cancelled,2
+CUST00973,Isha Joshi,38,Male,Jaipur,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,31-03-2026,Wallet,Delivered,5
+CUST00974,Simran Gupta,28,Female,Chandigarh,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,24-06-2026,Credit Card,Delivered,4
+CUST00975,Rohan Singh,32,Other,Pune,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,1,245.16,245.16,29-11-2025,UPI,Shipped,5
+CUST00976,Pooja Gupta,41,Female,Jaipur,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,20-02-2026,Cash on Delivery,Cancelled,4
+CUST00977,Krishna Iyer,37,Male,Bengaluru,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,01-10-2025,Wallet,Delivered,5
+CUST00978,Aarav Kapoor,50,Female,Jaipur,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,07-06-2026,Credit Card,Delivered,4
+CUST00979,Nikhil Reddy,28,Male,Ahmedabad,27,Allen Solly Kids Casual Jacket,Allen Solly,Ajio,1,4200.558,4200.56,04-01-2025,Wallet,Delivered,4
+CUST00980,Aarav Singh,51,Female,Ahmedabad,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,05-06-2026,Cash on Delivery,Returned,5
+CUST00981,Arjun Kumar,49,Male,Hyderabad,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,13-02-2026,UPI,Delivered,4
+CUST00982,Myra Verma,52,Other,Pune,354,Puma Women Denim Jacket,Puma,Tata CLiQ,2,331.29,662.58,28-11-2025,Cash on Delivery,Delivered,
+CUST00983,Sanya Shah,49,Other,Jaipur,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,23-05-2026,Credit Card,Shipped,5
+CUST00984,Kiara Gupta,50,Other,Lucknow,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,08-01-2025,Net Banking,Delivered,5
+CUST00985,Isha Joshi,47,Male,Delhi,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,03-06-2025,UPI,Delivered,5
+CUST00986,Krishna Nair,50,Female,Chennai,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,1,485.04,485.04,21-12-2025,Wallet,Delivered,2
+CUST00987,Sai Sharma,34,Female,Delhi,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,2,418.95,837.9,13-09-2025,Cash on Delivery,Cancelled,4
+CUST00988,Rohan Bansal,22,Other,Bhopal,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,08-09-2025,Wallet,Shipped,5
+CUST00989,Aadhya Patel,38,Other,Ahmedabad,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,05-04-2025,Credit Card,Delivered,2
+CUST00990,Aarav Agarwal,20,Male,Ahmedabad,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,12-05-2025,Debit Card,Cancelled,5
+CUST00991,Divya Pillai,21,Other,Jaipur,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,23-09-2025,Debit Card,Delivered,5
+CUST00992,Rohan Singh,29,Other,Chandigarh,751,Tommy Hilfiger Unisex Casual Saree,Tommy Hilfiger,Ajio,1,277.795,277.8,20-04-2025,Debit Card,Returned,5
+CUST00993,Neha Gupta,24,Female,Chandigarh,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,11-02-2026,Debit Card,Delivered,3
+CUST00994,Divya Pillai,46,Female,Hyderabad,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,26-04-2025,Cash on Delivery,Shipped,1
+CUST00995,Myra Patel,41,Male,Chandigarh,713,W Kids Formal Jeans,W,Amazon,2,537.1665,1074.33,24-11-2025,Debit Card,Delivered,5
+CUST00996,Arjun Iyer,31,Other,Mumbai,1009,Gap Men Graphic Skirt,Gap,Ajio,2,430.528,861.06,30-04-2026,Cash on Delivery,Cancelled,3
+CUST00997,Ayaan Bansal,39,Male,Bengaluru,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,1,276.14,276.14,13-02-2025,Cash on Delivery,Shipped,5
+CUST00998,Myra Shah,37,Male,Bhopal,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,17-02-2025,UPI,Delivered,4
+CUST00999,Krishna Verma,55,Male,Kolkata,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,1,473.344,473.34,30-10-2025,Wallet,Delivered,4
+CUST01000,Sanya Kapoor,31,Female,Bhopal,882,Puma Women Ripped Hoodie,Puma,Ajio,3,548.334,1645,26-06-2025,UPI,Delivered,
+CUST01001,Isha Pillai,49,Other,Indore,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,12-10-2025,Credit Card,Returned,4
+CUST01002,Varun Sharma,43,Other,Surat,350,Peter England Men Printed Track Pants,Peter England,Myntra,3,557.076,1671.23,03-06-2025,Credit Card,Returned,
+CUST01003,Vihaan Malhotra,50,Other,Ahmedabad,285,Levi's Kids Graphic Saree,Levi's,Ajio,2,3059.048,6118.1,09-01-2025,UPI,Cancelled,5
+CUST01004,Ayaan Nair,44,Female,Hyderabad,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,29-10-2025,Net Banking,Delivered,4
+CUST01005,Pooja Agarwal,50,Female,Bengaluru,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,20-01-2026,Cash on Delivery,Delivered,5
+CUST01006,Ishaan Kapoor,44,Female,Chennai,393,H&M Unisex Formal Jeans,H&M,Flipkart,2,387.01,774.02,01-03-2026,Net Banking,Returned,5
+CUST01007,Diya Joshi,26,Male,Mumbai,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,01-07-2025,Wallet,Delivered,5
+CUST01008,Krishna Chopra,32,Male,Chennai,77,Allen Solly Men Printed Sweater,Allen Solly,Meesho,1,320.04,320.04,11-10-2025,UPI,Shipped,4
+CUST01009,Anika Nair,33,Other,Kolkata,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,21-01-2025,Cash on Delivery,Delivered,1
+CUST01010,Sai Das,45,Other,Nagpur,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,21-03-2025,Credit Card,Cancelled,3
+CUST01011,Diya Iyer,33,Male,Mumbai,914,Uniqlo Women Casual Blazer,Uniqlo,Amazon,3,3078.968,9236.9,25-03-2025,Credit Card,Delivered,3
+CUST01012,Aditya Gupta,36,Male,Delhi,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,30-03-2025,Net Banking,Returned,4
+CUST01013,Reyansh Sharma,52,Female,Indore,1029,H&M Women Striped Dress,H&M,Meesho,3,600.96,1802.88,13-02-2025,UPI,Delivered,
+CUST01014,Krishna Bansal,30,Female,Hyderabad,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,2,171.78,343.56,28-04-2025,Credit Card,Delivered,1
+CUST01015,Varun Nair,28,Other,Nagpur,981,W Men Classic Jeans,W,Ajio,1,2310.942,2310.94,22-07-2025,Debit Card,Delivered,5
+CUST01016,Pooja Malhotra,18,Male,Bhopal,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,05-01-2026,Cash on Delivery,Delivered,5
+CUST01017,Yash Malhotra,49,Male,Pune,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,01-08-2025,Debit Card,Shipped,5
+CUST01018,Vivaan Iyer,37,Other,Pune,95,Puma Women Classic Jacket,Puma,Flipkart,2,783.335,1566.67,18-08-2025,Cash on Delivery,Delivered,2
+CUST01019,Yash Reddy,24,Female,Ahmedabad,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,25-05-2026,Wallet,Delivered,5
+CUST01020,Ayaan Sharma,54,Male,Kolkata,15,W Men Slim Fit Blazer,W,Nykaa Fashion,1,2950.9125,2950.91,30-05-2025,Cash on Delivery,Returned,3
+CUST01021,Ishaan Pillai,54,Other,Bengaluru,197,Biba Kids Slim Fit Skirt,Biba,Tata CLiQ,1,419.482,419.48,29-09-2025,Wallet,Shipped,4
+CUST01022,Nikhil Das,43,Male,Hyderabad,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,21-11-2025,Cash on Delivery,Delivered,4
+CUST01023,Tanvi Gupta,22,Other,Lucknow,929,Calvin Klein Men Casual Shirt,Calvin Klein,Myntra,1,369.24,369.24,17-12-2025,Cash on Delivery,Delivered,3
+CUST01024,Diya Iyer,44,Male,Nagpur,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,05-07-2025,Net Banking,Delivered,1
+CUST01025,Sai Chopra,21,Male,Delhi,240,Roadster Men Classic Shorts,Roadster,Tata CLiQ,2,473.344,946.69,11-07-2025,UPI,Delivered,
+CUST01026,Rohan Bansal,33,Male,Jaipur,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,18-07-2025,Net Banking,Delivered,2
+CUST01027,Meera Joshi,21,Other,Bengaluru,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,1,485.04,485.04,28-01-2025,Net Banking,Delivered,4
+CUST01028,Divya Bansal,40,Female,Nagpur,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,20-09-2025,Wallet,Delivered,4
+CUST01029,Yash Agarwal,42,Male,Lucknow,522,Nike Women Ripped Skirt,Nike,Flipkart,2,295.58,591.16,07-03-2026,Credit Card,Delivered,5
+CUST01030,Simran Pillai,35,Female,Nagpur,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,24-07-2025,Credit Card,Returned,4
+CUST01031,Vivaan Pillai,30,Male,Hyderabad,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,02-05-2025,UPI,Delivered,2
+CUST01032,Neha Shah,22,Other,Ahmedabad,809,Calvin Klein Unisex Striped Kurta,Calvin Klein,Nykaa Fashion,1,3939.85,3939.85,05-02-2025,Credit Card,Shipped,5
+CUST01033,Rohan Patel,18,Male,Mumbai,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,21-06-2026,Wallet,Delivered,3
+CUST01034,Neha Reddy,34,Male,Bhopal,522,Nike Women Ripped Skirt,Nike,Flipkart,2,295.58,591.16,27-03-2026,Net Banking,Delivered,2
+CUST01035,Aadhya Gupta,54,Female,Indore,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,06-01-2026,Cash on Delivery,Delivered,5
+CUST01036,Nikhil Iyer,18,Other,Chandigarh,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,2,418.95,837.9,13-02-2025,Net Banking,Cancelled,5
+CUST01037,Sara Chopra,52,Male,Bhopal,183,Levi's Men Graphic Skirt,Levi's,Meesho,1,2215.205,2215.2,06-03-2026,Cash on Delivery,Delivered,
+CUST01038,Neha Reddy,49,Female,Indore,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,14-12-2025,Wallet,Delivered,
+CUST01039,Isha Patel,55,Female,Surat,963,Under Armour Women Cotton Track Pants,Under Armour,Myntra,1,316.38,316.38,25-01-2026,Wallet,Delivered,5
+CUST01040,Pooja Verma,34,Male,Lucknow,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,1,457.0995,457.1,29-11-2025,UPI,Returned,2
+CUST01041,Nikhil Chopra,39,Male,Nagpur,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,17-05-2026,Debit Card,Delivered,5
+CUST01042,Diya Iyer,38,Female,Chennai,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,2,292.896,585.79,01-05-2025,Net Banking,Delivered,1
+CUST01043,Nikhil Singh,47,Other,Lucknow,643,Puma Men Denim Trousers,Puma,Snapdeal,2,1124.739,2249.48,23-05-2026,UPI,Delivered,5
+CUST01044,Yash Shah,28,Other,Chandigarh,313,Puma Women Casual Shirt,Puma,Tata CLiQ,2,2660.9335,5321.87,17-07-2025,Debit Card,Delivered,5
+CUST01045,Diya Patel,35,Female,Chennai,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,20-01-2025,Credit Card,Delivered,4
+CUST01046,Rohan Singh,30,Other,Lucknow,180,H&M Men Relaxed Fit Shorts,H&M,Nykaa Fashion,1,1188.016,1188.02,21-02-2025,Net Banking,Delivered,4
+CUST01047,Diya Singh,46,Male,Kolkata,1009,Gap Men Graphic Skirt,Gap,Ajio,1,430.528,430.53,14-05-2025,UPI,Delivered,3
+CUST01048,Arjun Kapoor,19,Male,Ahmedabad,379,Uniqlo Women Formal Saree,Uniqlo,Amazon,1,299.838,299.84,15-07-2025,Debit Card,Cancelled,5
+CUST01049,Yash Reddy,51,Male,Chennai,15,W Men Slim Fit Blazer,W,Nykaa Fashion,1,2950.9125,2950.91,21-02-2025,Net Banking,Delivered,3
+CUST01050,Diya Chopra,19,Male,Surat,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,21-05-2026,Debit Card,Delivered,2
+CUST01051,Kiara Mehta,22,Other,Chandigarh,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,09-06-2026,Cash on Delivery,Delivered,1
+CUST01052,Neha Iyer,27,Male,Lucknow,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,1,187.192,187.19,26-04-2026,UPI,Delivered,
+CUST01053,Ayaan Nair,46,Female,Chennai,707,Reebok Unisex Denim T-Shirt,Reebok,Ajio,2,1593.7925,3187.59,24-03-2026,Debit Card,Delivered,5
+CUST01054,Aadhya Joshi,39,Male,Chandigarh,181,Biba Kids Cotton Jeans,Biba,Meesho,2,386.288,772.58,09-08-2025,Credit Card,Delivered,3
+CUST01055,Kiara Patel,39,Female,Delhi,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,1,432.7535,432.75,24-05-2025,Net Banking,Delivered,5
+CUST01056,Kiara Rao,51,Male,Jaipur,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,03-03-2025,Wallet,Returned,2
+CUST01057,Sanya Malhotra,19,Male,Bengaluru,554,Nike Men Relaxed Fit Saree,Nike,Flipkart,1,1952.93,1952.93,05-10-2025,Cash on Delivery,Delivered,4
+CUST01058,Yash Kapoor,18,Female,Mumbai,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,13-03-2025,Net Banking,Cancelled,
+CUST01059,Simran Mehta,52,Male,Bhopal,615,Puma Unisex Denim Sweater,Puma,Myntra,2,269.588,539.18,27-05-2025,Wallet,Shipped,5
+CUST01060,Ayaan Patel,25,Female,Hyderabad,370,Calvin Klein Women Printed Jacket,Calvin Klein,Nykaa Fashion,3,3581.975,10745.92,05-02-2026,UPI,Returned,4
+CUST01061,Vihaan Mehta,52,Other,Lucknow,1075,Uniqlo Unisex Printed Jeans,Uniqlo,Amazon,2,187.192,374.38,17-12-2025,Cash on Delivery,Returned,5
+CUST01062,Amit Das,18,Female,Bengaluru,859,Forever 21 Men Striped Trousers,Forever 21,Myntra,1,485.04,485.04,26-01-2026,Debit Card,Shipped,4
+CUST01063,Sanya Rao,48,Male,Chennai,1015,Adidas Kids Slim Fit Co-ord Set,Adidas,Meesho,2,4268.7205,8537.44,07-04-2025,Wallet,Delivered,5
+CUST01064,Vivaan Nair,42,Other,Lucknow,485,Puma Kids Striped Trousers,Puma,Flipkart,1,2820.5515,2820.55,30-07-2025,Cash on Delivery,Delivered,5
+CUST01065,Vivaan Gupta,33,Other,Chennai,452,Zara Women Cotton Blazer,Zara,Nykaa Fashion,1,763.173,763.17,28-06-2025,Credit Card,Delivered,3
+CUST01066,Kiara Pillai,38,Other,Chennai,319,Calvin Klein Kids Oversized Sweater,Calvin Klein,Snapdeal,2,369.62,739.24,11-10-2025,Cash on Delivery,Cancelled,2
+CUST01067,Tanvi Kapoor,52,Female,Chandigarh,522,Nike Women Ripped Skirt,Nike,Flipkart,1,295.58,295.58,22-01-2025,Credit Card,Delivered,1
+CUST01068,Nikhil Kumar,46,Other,Ahmedabad,205,Biba Men Graphic Dress,Biba,Snapdeal,1,381.03,381.03,24-04-2025,Credit Card,Delivered,4
+CUST01069,Karan Verma,36,Female,Kolkata,595,Forever 21 Women Classic Dress,Forever 21,Nykaa Fashion,1,2193.786,2193.79,02-05-2026,Debit Card,Delivered,1
+CUST01070,Pooja Pillai,28,Female,Bengaluru,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,25-06-2025,Cash on Delivery,Delivered,4
+CUST01071,Yash Gupta,19,Male,Delhi,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,18-05-2025,Credit Card,Delivered,4
+CUST01072,Pooja Malhotra,22,Female,Nagpur,380,Gap Men Ripped Sweater,Gap,Meesho,1,162.292,162.29,29-04-2026,Cash on Delivery,Delivered,1
+CUST01073,Anika Patel,28,Male,Chandigarh,940,HRX Kids Cotton Co-ord Set,HRX,Ajio,1,2210.844,2210.84,10-03-2025,Wallet,Returned,4
+CUST01074,Vivaan Singh,37,Female,Chennai,71,Allen Solly Men Ripped Dress,Allen Solly,Tata CLiQ,1,292.896,292.9,06-04-2025,Wallet,Returned,4
+CUST01075,Pooja Pillai,39,Male,Indore,619,Van Heusen Women Ripped Dress,Van Heusen,Flipkart,2,1847.4495,3694.9,09-01-2026,Credit Card,Delivered,5
+CUST01076,Sneha Kapoor,37,Other,Bengaluru,1145,Zara Unisex Floral Jeans,Zara,Myntra,2,748.7995,1497.6,15-08-2025,UPI,Delivered,4
+CUST01077,Rahul Joshi,41,Other,Bhopal,755,Calvin Klein Men Graphic Jacket,Calvin Klein,Nykaa Fashion,3,2781.583,8344.75,29-06-2026,Net Banking,Delivered,1
+CUST01078,Karan Bansal,37,Female,Indore,823,Puma Kids Denim Co-ord Set,Puma,Flipkart,1,171.78,171.78,11-11-2025,Net Banking,Delivered,1
+CUST01079,Pooja Sharma,39,Female,Indore,264,Biba Men Printed Saree,Biba,Flipkart,2,409.854,819.71,05-05-2026,Cash on Delivery,Delivered,5
+CUST01080,Nikhil Mehta,48,Other,Ahmedabad,1028,Forever 21 Men Ripped Jacket,Forever 21,Meesho,1,333.375,333.38,06-05-2026,Debit Card,Returned,4
+CUST01081,Amit Rao,18,Other,Nagpur,465,H&M Men Relaxed Fit Kurta,H&M,Amazon,1,386.22,386.22,26-12-2025,Net Banking,Returned,1
+CUST01082,Divya Das,51,Male,Chandigarh,241,Forever 21 Women Ripped Jacket,Forever 21,Myntra,2,2881.179,5762.36,08-08-2025,Debit Card,Cancelled,5
+CUST01083,Aditya Malhotra,44,Other,Delhi,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,09-06-2025,Wallet,Shipped,4
+CUST01084,Nikhil Malhotra,50,Female,Indore,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,16-03-2026,Net Banking,Cancelled,4
+CUST01085,Diya Iyer,20,Female,Lucknow,493,Van Heusen Women Cotton Trousers,Van Heusen,Tata CLiQ,1,418.95,418.95,01-12-2025,Debit Card,Returned,4
+CUST01086,Pooja Kapoor,55,Other,Nagpur,564,Adidas Women Denim Track Pants,Adidas,Amazon,1,2624.6325,2624.63,24-08-2025,UPI,Delivered,1
+CUST01087,Yash Gupta,32,Other,Kolkata,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,04-02-2026,Net Banking,Cancelled,4
+CUST01088,Pooja Chopra,36,Female,Chandigarh,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,29-07-2025,Wallet,Delivered,3
+CUST01089,Sai Agarwal,50,Other,Jaipur,775,Zara Kids Formal T-Shirt,Zara,Flipkart,2,385.389,770.78,19-05-2025,Net Banking,Delivered,4
+CUST01090,Sara Singh,51,Other,Jaipur,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,09-07-2025,UPI,Shipped,5
+CUST01091,Kiara Kumar,21,Other,Mumbai,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,1,345.683,345.68,05-01-2026,Wallet,Delivered,5
+CUST01092,Priya Verma,55,Male,Jaipur,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,1,311.252,311.25,10-03-2026,UPI,Returned,5
+CUST01093,Tanvi Joshi,33,Female,Lucknow,1046,Calvin Klein Women Relaxed Fit Kurta,Calvin Klein,Nykaa Fashion,2,350.608,701.22,13-06-2025,Net Banking,Returned,3
+CUST01094,Meera Reddy,37,Male,Hyderabad,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,2,462.445,924.89,20-04-2025,Debit Card,Delivered,5
+CUST01095,Yash Kumar,46,Female,Delhi,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,21-11-2025,Debit Card,Shipped,
+CUST01096,Ishaan Das,20,Female,Lucknow,615,Puma Unisex Denim Sweater,Puma,Myntra,1,269.588,269.59,18-05-2025,UPI,Delivered,5
+CUST01097,Arjun Nair,27,Other,Delhi,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,1,457.0995,457.1,27-02-2025,UPI,Shipped,5
+CUST01098,Aditya Malhotra,55,Female,Jaipur,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,1,245.16,245.16,12-02-2026,Debit Card,Delivered,
+CUST01099,Neha Joshi,39,Female,Bhopal,992,Allen Solly Kids Floral Co-ord Set,Allen Solly,Myntra,1,262.34,262.34,26-03-2025,Debit Card,Shipped,4
+CUST01100,Meera Iyer,36,Male,Lucknow,424,Van Heusen Unisex Classic Dress,Van Heusen,Myntra,1,437.68,437.68,29-04-2025,Cash on Delivery,Delivered,4
+CUST01101,Myra Iyer,48,Male,Jaipur,668,Tommy Hilfiger Women Cotton Saree,Tommy Hilfiger,Ajio,1,457.0995,457.1,14-10-2025,Net Banking,Delivered,4
+CUST01102,Varun Kapoor,23,Female,Jaipur,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,2,473.745,947.49,05-11-2025,Cash on Delivery,Delivered,1
+CUST01103,Priya Bansal,43,Other,Ahmedabad,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,23-05-2026,Debit Card,Delivered,1
+CUST01104,Myra Kapoor,41,Male,Jaipur,895,Biba Women Graphic Saree,Biba,Snapdeal,1,3033.8625,3033.86,01-05-2025,Cash on Delivery,Delivered,5
+CUST01105,Varun Chopra,24,Other,Chennai,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,2,243.248,486.5,01-04-2025,Net Banking,Shipped,2
+CUST01106,Sara Malhotra,50,Male,Jaipur,1009,Gap Men Graphic Skirt,Gap,Ajio,2,430.528,861.06,17-01-2025,Credit Card,Shipped,4
+CUST01107,Sneha Kumar,23,Male,Jaipur,492,Uniqlo Men Printed Saree,Uniqlo,Snapdeal,1,245.16,245.16,08-08-2025,Cash on Delivery,Cancelled,1
+CUST01108,Arjun Mehta,28,Other,Surat,199,Roadster Unisex Graphic Saree,Roadster,Amazon,2,361.764,723.53,29-01-2025,UPI,Delivered,3
+CUST01109,Divya Mehta,47,Female,Ahmedabad,64,H&M Women Solid Kurta,H&M,Ajio,2,486.115,972.23,25-06-2026,Debit Card,Delivered,2
+CUST01110,Vihaan Sharma,27,Female,Bengaluru,964,Reebok Men Solid Saree,Reebok,Myntra,1,3416.224,3416.22,29-04-2025,Wallet,Returned,5
+CUST01111,Arjun Gupta,26,Other,Bhopal,394,Roadster Kids Ripped Hoodie,Roadster,Tata CLiQ,1,213.848,213.85,31-05-2025,Cash on Delivery,Cancelled,
+CUST01112,Ayaan Mehta,45,Male,Jaipur,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,24-01-2026,UPI,Delivered,2
+CUST01113,Aditya Nair,31,Other,Bengaluru,828,Puma Unisex Relaxed Fit Shorts,Puma,Tata CLiQ,1,2400.512,2400.51,13-11-2025,Credit Card,Delivered,4
+CUST01114,Sai Chopra,51,Male,Nagpur,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,27-05-2025,Net Banking,Returned,4
+CUST01115,Vihaan Das,22,Other,Indore,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,18-10-2025,Debit Card,Shipped,5
+CUST01116,Ayaan Mehta,53,Female,Delhi,267,Adidas Unisex Striped Skirt,Adidas,Myntra,2,2220.36,4440.72,30-04-2025,Wallet,Delivered,1
+CUST01117,Sanya Kumar,30,Male,Kolkata,2,W Kids Denim Jeans,W,Myntra,1,455.6595,455.66,19-04-2025,Debit Card,Shipped,5
+CUST01118,Tanvi Reddy,45,Male,Bengaluru,135,Peter England Unisex Denim T-Shirt,Peter England,Ajio,2,1351.28,2702.56,21-12-2025,Cash on Delivery,Delivered,1
+CUST01119,Vivaan Das,20,Other,Surat,1092,Reebok Women Floral Shorts,Reebok,Amazon,1,1028.651,1028.65,12-10-2025,Credit Card,Returned,2
+CUST01120,Rohan Kumar,23,Female,Chandigarh,999,Puma Men Formal Track Pants,Puma,Myntra,1,1801.932,1801.93,22-02-2026,Net Banking,Returned,
+CUST01121,Varun Verma,37,Other,Ahmedabad,633,Calvin Klein Kids Striped Shirt,Calvin Klein,Snapdeal,1,399.9,399.9,27-07-2025,Wallet,Returned,
+CUST01122,Aditya Iyer,20,Other,Kolkata,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,1,287.49,287.49,22-12-2025,Credit Card,Delivered,1
+CUST01123,Sanya Gupta,46,Other,Jaipur,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,1,426.192,426.19,22-03-2025,Cash on Delivery,Shipped,1
+CUST01124,Ayaan Joshi,30,Female,Surat,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,22-10-2025,Net Banking,Cancelled,
+CUST01125,Rahul Gupta,50,Female,Kolkata,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,1,243.248,243.25,20-03-2025,Credit Card,Cancelled,5
+CUST01126,Ishaan Agarwal,48,Other,Delhi,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,07-08-2025,Net Banking,Cancelled,2
+CUST01127,Ishaan Bansal,30,Male,Indore,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,05-02-2026,Cash on Delivery,Shipped,3
+CUST01128,Meera Rao,33,Female,Kolkata,1163,Puma Men Denim Jacket,Puma,Flipkart,1,2291.208,2291.21,05-05-2026,Cash on Delivery,Returned,5
+CUST01129,Aarav Singh,47,Other,Hyderabad,199,Roadster Unisex Graphic Saree,Roadster,Amazon,1,361.764,361.76,23-02-2025,Net Banking,Delivered,5
+CUST01130,Rohan Reddy,38,Male,Delhi,202,Biba Kids Ripped Hoodie,Biba,Nykaa Fashion,1,226.984,226.98,18-06-2026,Cash on Delivery,Returned,4
+CUST01131,Rohan Pillai,20,Other,Bengaluru,365,Biba Kids Solid Track Pants,Biba,Snapdeal,1,466.902,466.9,14-05-2025,Net Banking,Shipped,1
+CUST01132,Vihaan Nair,44,Male,Jaipur,926,Biba Kids Casual Jeans,Biba,Snapdeal,1,496.106,496.11,02-05-2025,UPI,Delivered,2
+CUST01133,Pooja Chopra,39,Female,Nagpur,1186,Under Armour Women Slim Fit Co-ord Set,Under Armour,Myntra,1,160.588,160.59,20-09-2025,Credit Card,Delivered,5
+CUST01134,Vivaan Joshi,55,Female,Delhi,196,Allen Solly Men Cotton Jacket,Allen Solly,Meesho,2,426.192,852.38,09-04-2025,Cash on Delivery,Delivered,5
+CUST01135,Tanvi Pillai,47,Female,Bhopal,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,2,431.681,863.36,12-06-2025,Wallet,Returned,1
+CUST01136,Myra Patel,35,Other,Chandigarh,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,30-03-2025,Wallet,Cancelled,5
+CUST01137,Sara Malhotra,39,Other,Hyderabad,559,Van Heusen Women Relaxed Fit Track Pants,Van Heusen,Flipkart,2,969.857,1939.71,15-05-2025,Credit Card,Delivered,5
+CUST01138,Yash Patel,28,Male,Hyderabad,917,Roadster Unisex Regular Fit Co-ord Set,Roadster,Amazon,2,345.683,691.37,13-05-2026,Net Banking,Cancelled,
+CUST01139,Sai Kapoor,39,Male,Indore,480,Levi's Kids Solid Co-ord Set,Levi's,Myntra,2,276.14,552.28,03-01-2026,Credit Card,Delivered,3
+CUST01140,Amit Joshi,49,Male,Lucknow,325,H&M Unisex Casual Shirt,H&M,Tata CLiQ,2,2403.984,4807.97,27-12-2025,Net Banking,Shipped,5
+CUST01141,Kiara Mehta,51,Other,Bhopal,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,22-04-2025,Cash on Delivery,Delivered,5
+CUST01142,Amit Shah,43,Other,Ahmedabad,249,Calvin Klein Unisex Floral Co-ord Set,Calvin Klein,Amazon,1,450.72,450.72,31-03-2025,UPI,Delivered,4
+CUST01143,Priya Patel,22,Female,Delhi,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,22-08-2025,Net Banking,Delivered,1
+CUST01144,Ishaan Sharma,54,Female,Pune,689,Peter England Unisex Relaxed Fit Saree,Peter England,Snapdeal,1,2399.7675,2399.77,24-04-2026,Net Banking,Delivered,5
+CUST01145,Diya Das,40,Female,Jaipur,223,Roadster Men Ripped T-Shirt,Roadster,Flipkart,2,243.248,486.5,16-03-2026,Debit Card,Cancelled,
+CUST01146,Diya Verma,29,Female,Chandigarh,2,W Kids Denim Jeans,W,Myntra,1,455.6595,455.66,01-02-2026,Net Banking,Returned,1
+CUST01147,Pooja Singh,29,Other,Bhopal,1021,Zara Men Oversized Kurta,Zara,Myntra,1,493.165,493.17,28-08-2025,UPI,Shipped,
+CUST01148,Divya Reddy,44,Other,Pune,50,Under Armour Men Denim Hoodie,Under Armour,Snapdeal,1,3856.212,3856.21,03-03-2025,Debit Card,Delivered,2
+CUST01149,Neha Rao,47,Female,Lucknow,849,Puma Kids Ripped Co-ord Set,Puma,Meesho,1,489.508,489.51,02-09-2025,Debit Card,Delivered,5
+CUST01150,Karan Malhotra,50,Female,Delhi,341,Levi's Women Graphic Track Pants,Levi's,Ajio,3,2064.115,6192.34,04-12-2025,Net Banking,Cancelled,2
+CUST01151,Riya Kapoor,29,Female,Hyderabad,47,Van Heusen Women Casual Shirt,Van Heusen,Ajio,1,431.681,431.68,07-05-2026,Net Banking,Delivered,2
+CUST01152,Karan Kumar,34,Other,Nagpur,64,H&M Women Solid Kurta,H&M,Ajio,1,486.115,486.12,31-03-2026,UPI,Delivered,1
+CUST01153,Sanya Malhotra,37,Other,Jaipur,1191,Van Heusen Men Regular Fit Co-ord Set,Van Heusen,Meesho,1,1160.7635,1160.76,10-11-2025,Net Banking,Returned,
+CUST01154,Sneha Verma,20,Male,Bengaluru,599,Allen Solly Unisex Oversized Dress,Allen Solly,Myntra,1,359.478,359.48,15-06-2026,Net Banking,Cancelled,5
+CUST01155,Anika Malhotra,28,Female,Surat,1095,Gap Unisex Striped Hoodie,Gap,Flipkart,1,2279.42,2279.42,14-01-2025,Net Banking,Delivered,4
+CUST01156,Aarav Das,18,Female,Nagpur,184,H&M Women Oversized Jacket,H&M,Tata CLiQ,1,449.9925,449.99,14-04-2025,UPI,Returned,2
+CUST01157,Sara Agarwal,40,Male,Ahmedabad,446,Uniqlo Kids Casual Trousers,Uniqlo,Flipkart,1,173.12,173.12,12-04-2025,Net Banking,Delivered,2
+CUST01158,Isha Joshi,32,Female,Kolkata,337,Roadster Women Graphic T-Shirt,Roadster,Nykaa Fashion,1,466.99,466.99,16-04-2025,UPI,Shipped,3
+CUST01159,Ayaan Reddy,44,Other,Bhopal,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,27-06-2026,Debit Card,Delivered,
+CUST01160,Tanvi Rao,41,Female,Pune,1194,Allen Solly Men Formal Skirt,Allen Solly,Amazon,3,2839.599,8518.8,30-03-2026,Debit Card,Delivered,5
+CUST01161,Simran Joshi,51,Other,Chennai,774,W Women Striped Jacket,W,Myntra,1,405.004,405,01-07-2025,Net Banking,Returned,5
+CUST01162,Kiara Joshi,50,Male,Lucknow,1055,Tommy Hilfiger Men Cotton Dress,Tommy Hilfiger,Tata CLiQ,1,397.968,397.97,31-03-2025,Wallet,Delivered,4
+CUST01163,Sanya Shah,26,Male,Delhi,81,HRX Unisex Solid Sweater,HRX,Myntra,3,2004.6075,6013.82,16-02-2025,Debit Card,Delivered,4
+CUST01164,Yash Mehta,41,Other,Indore,931,Van Heusen Kids Cotton Track Pants,Van Heusen,Nykaa Fashion,1,1772.226,1772.23,19-02-2025,Net Banking,Delivered,1
+CUST01165,Tanvi Chopra,50,Female,Mumbai,259,Zara Unisex Striped Jacket,Zara,Ajio,1,301.294,301.29,21-12-2025,Cash on Delivery,Cancelled,5
+CUST01166,Rahul Patel,19,Female,Kolkata,451,Uniqlo Women Relaxed Fit Shirt,Uniqlo,Tata CLiQ,2,1827.608,3655.22,29-12-2025,Debit Card,Returned,5
+CUST01167,Tanvi Sharma,25,Male,Mumbai,726,Biba Women Ripped Hoodie,Biba,Nykaa Fashion,1,411.654,411.65,25-04-2026,Wallet,Delivered,4
+CUST01168,Vivaan Singh,18,Female,Chandigarh,354,Puma Women Denim Jacket,Puma,Tata CLiQ,1,331.29,331.29,26-11-2025,Wallet,Delivered,1
+CUST01169,Yash Iyer,37,Other,Pune,819,Peter England Men Denim Shirt,Peter England,Meesho,1,1559.439,1559.44,30-10-2025,Wallet,Delivered,5
+CUST01170,Anika Iyer,31,Male,Surat,653,Nike Unisex Solid Jeans,Nike,Meesho,1,4374.7,4374.7,26-04-2026,Credit Card,Shipped,1
+CUST01171,Vihaan Malhotra,51,Female,Delhi,61,W Kids Printed Shorts,W,Snapdeal,2,2531.772,5063.54,19-03-2025,Debit Card,Delivered,5
+CUST01172,Meera Shah,29,Other,Delhi,860,Zara Women Solid Trousers,Zara,Nykaa Fashion,3,2399.3645,7198.09,31-01-2025,UPI,Delivered,5
+CUST01173,Tanvi Malhotra,26,Other,Ahmedabad,613,Levi's Kids Cotton Kurta,Levi's,Meesho,1,374.648,374.65,15-03-2026,Debit Card,Delivered,1
+CUST01174,Diya Kumar,20,Other,Hyderabad,393,H&M Unisex Formal Jeans,H&M,Flipkart,1,387.01,387.01,01-06-2026,UPI,Cancelled,5
+CUST01175,Diya Agarwal,42,Male,Nagpur,1031,Nike Unisex Ripped Jacket,Nike,Flipkart,1,198.228,198.23,23-02-2026,Net Banking,Delivered,5
+CUST01176,Reyansh Patel,41,Female,Nagpur,1109,Calvin Klein Kids Striped Co-ord Set,Calvin Klein,Meesho,1,2384.3325,2384.33,29-09-2025,UPI,Shipped,5
+CUST01177,Myra Reddy,46,Male,Pune,720,Zara Men Cotton Sweater,Zara,Tata CLiQ,1,462.445,462.44,11-03-2025,Credit Card,Delivered,1
+CUST01178,Ayaan Pillai,23,Male,Nagpur,294,Gap Kids Denim T-Shirt,Gap,Tata CLiQ,1,282.822,282.82,03-03-2025,Net Banking,Cancelled,
+CUST01179,Myra Das,54,Male,Ahmedabad,399,Biba Unisex Solid Shirt,Biba,Amazon,1,259.445,259.44,09-06-2026,UPI,Delivered,5
+CUST01180,Amit Verma,26,Other,Chandigarh,1009,Gap Men Graphic Skirt,Gap,Ajio,1,430.528,430.53,24-03-2026,Cash on Delivery,Delivered,5
+CUST01181,Diya Kapoor,42,Female,Hyderabad,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,02-08-2025,Debit Card,Delivered,4
+CUST01182,Riya Nair,50,Female,Chennai,306,W Women Solid Hoodie,W,Snapdeal,1,396.595,396.6,26-11-2025,Wallet,Delivered,4
+CUST01183,Ananya Malhotra,19,Other,Ahmedabad,775,Zara Kids Formal T-Shirt,Zara,Flipkart,1,385.389,385.39,25-06-2026,Credit Card,Cancelled,4
+CUST01184,Divya Rao,33,Male,Chandigarh,49,Levi's Women Casual Co-ord Set,Levi's,Nykaa Fashion,2,287.49,574.98,22-12-2025,Debit Card,Delivered,
+CUST01185,Varun Singh,45,Female,Pune,295,Nike Unisex Relaxed Fit Skirt,Nike,Nykaa Fashion,1,191.144,191.14,05-03-2026,Cash on Delivery,Delivered,3
+CUST01186,Riya Malhotra,24,Female,Jaipur,997,Under Armour Kids Classic Shirt,Under Armour,Meesho,1,424.818,424.82,09-12-2025,Credit Card,Cancelled,5
+CUST01187,Tanvi Mehta,53,Female,Nagpur,264,Biba Men Printed Saree,Biba,Flipkart,1,409.854,409.85,04-02-2026,Credit Card,Delivered,5
+CUST01188,Pooja Malhotra,38,Other,Mumbai,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,22-06-2026,Net Banking,Delivered,1
+CUST01189,Arjun Agarwal,26,Other,Nagpur,383,Puma Women Regular Fit Shorts,Puma,Snapdeal,1,371.61,371.61,04-04-2026,Cash on Delivery,Delivered,5
+CUST01190,Priya Chopra,44,Female,Jaipur,187,Zara Women Classic Blazer,Zara,Nykaa Fashion,2,415.3695,830.74,11-08-2025,Net Banking,Cancelled,
+CUST01191,Vivaan Joshi,50,Female,Nagpur,939,Allen Solly Kids Ripped Hoodie,Allen Solly,Nykaa Fashion,1,398.496,398.5,25-08-2025,Net Banking,Delivered,
+CUST01192,Yash Singh,54,Other,Chandigarh,284,W Women Striped Kurta,W,Meesho,1,1793.66,1793.66,18-09-2025,Wallet,Cancelled,4
+CUST01193,Kiara Shah,51,Male,Mumbai,302,Roadster Kids Graphic Jacket,Roadster,Flipkart,2,887.835,1775.67,08-09-2025,Debit Card,Delivered,
+CUST01194,Diya Bansal,29,Female,Delhi,352,Calvin Klein Unisex Cotton Jeans,Calvin Klein,Nykaa Fashion,2,311.252,622.5,24-12-2025,Net Banking,Delivered,4
+CUST01195,Pooja Pillai,29,Male,Kolkata,31,W Unisex Relaxed Fit T-Shirt,W,Myntra,1,409.2725,409.27,04-11-2025,Credit Card,Shipped,4
+CUST01196,Krishna Sharma,53,Other,Bengaluru,140,Gap Unisex Formal Skirt,Gap,Myntra,3,1895.874,5687.62,09-05-2026,Credit Card,Delivered,4
+CUST01197,Amit Singh,53,Other,Surat,1019,Under Armour Men Classic Shorts,Under Armour,Flipkart,2,432.7535,865.51,27-11-2025,Net Banking,Delivered,4
+CUST01198,Yash Joshi,49,Male,Jaipur,638,Roadster Men Formal Blazer,Roadster,Nykaa Fashion,1,285.455,285.45,29-03-2026,Credit Card,Delivered,4
+CUST01199,Vivaan Sharma,45,Other,Pune,141,Van Heusen Women Cotton Jeans,Van Heusen,Myntra,1,473.745,473.75,18-02-2026,Debit Card,Delivered,5
+CUST01200,Meera Reddy,27,Male,Delhi,654,Forever 21 Men Solid Kurta,Forever 21,Meesho,1,1314.225,1314.22,30-10-2025,Net Banking,Delivered,5
