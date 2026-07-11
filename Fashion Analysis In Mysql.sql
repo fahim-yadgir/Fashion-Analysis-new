@@ -26,3 +26,11 @@ select `Product Name` ,brand,`Shopping App`,`Unit Selling Price`,`Payment Method
 from customer_purchase_dataset
 where `Unit Selling Price` = (select max(`Unit Selling Price`)from customer_purchase_dataset);
 
+select `Customer Name`,round(sum(`Total Amount Paid`),2)as Total_Amount_Paid,count(*)as More_than_1
+from customer_purchase_dataset
+group by `Customer Name`
+having count(*)>1;
+
+select brand,round(sum(`Total Amount Paid`),2)total_revenue
+from customer_purchase_dataset
+group by brand;
