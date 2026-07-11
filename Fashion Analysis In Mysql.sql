@@ -34,3 +34,10 @@ having count(*)>1;
 select brand,round(sum(`Total Amount Paid`),2)total_revenue
 from customer_purchase_dataset
 group by brand;
+
+select * from 
+(select `Payment Method` ,`Total Amount Paid`,dense_rank() over(partition by `Payment Method` order by `Total Amount Paid` desc)as top_3
+from customer_purchase_dataset
+)as category
+where top_3 <=3
+order by  `Payment Method`,top_3;
