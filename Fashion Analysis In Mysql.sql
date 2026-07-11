@@ -41,3 +41,12 @@ from customer_purchase_dataset
 )as category
 where top_3 <=3
 order by  `Payment Method`,top_3;
+
+select * from 
+(
+select `Customer Name`,`Payment Method`,`Unit Selling Price`,`Order Status`,
+dense_rank() over(partition by `Order Status` order by `Unit Selling Price` desc)as top_3
+from customer_purchase_dataset
+)as category
+where top_3 <= 3
+order by `Order Status`,top_3;
