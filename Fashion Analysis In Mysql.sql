@@ -80,3 +80,9 @@ from customer_purchase_dataset;
 select `Customer Name`,age,gender,`Product name`,`Total Amount Paid`
 from customer_purchase_dataset
 where gender = 'Female' and age between 0 and 18;
+
+select Brand,round(sum(`Total Amount Paid`),2)as total_amount_paid
+from customer_purchase_dataset
+group by brand
+order by total_amount_paid desc
+limit 10;
