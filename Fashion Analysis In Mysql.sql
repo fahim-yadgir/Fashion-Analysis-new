@@ -1,8 +1,6 @@
 create database Fashion_db;
 use Fashion_db;
 
-drop table ecommerce_clothing_dataset;
-
 select * from customer_purchase_dataset;
 
 select avg(`Customer Rating`)
@@ -50,3 +48,12 @@ from customer_purchase_dataset
 )as category
 where top_3 <= 3
 order by `Order Status`,top_3;
+
+select `Customer Name`,`Product Name`,Brand,`Quantity`,`Unit Selling Price`,`Total Amount Paid`,`Purchase Date`
+from customer_purchase_dataset
+where `Purchase Date` between '2025-01-01' and '2025-01-31'
+order by `Total Amount Paid` desc;
+
+update customer_purchase_dataset
+set 
+`Purchase Date` = str_to_date(`Purchase Date`,'%d-%m-%Y')
