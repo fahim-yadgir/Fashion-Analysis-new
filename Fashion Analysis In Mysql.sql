@@ -56,4 +56,16 @@ order by `Total Amount Paid` desc;
 
 update customer_purchase_dataset
 set 
-`Purchase Date` = str_to_date(`Purchase Date`,'%d-%m-%Y')
+`Purchase Date` = str_to_date(`Purchase Date`,'%d-%m-%Y');
+
+select `Customer Name`,`Product Name`,Brand,max(Quantity)as quantity
+from customer_purchase_dataset
+group by `Customer Name`,`Product Name`,Brand
+order by quantity desc
+limit 1;
+
+select `Customer Name` ,count(*)as total_count,round(sum(`Total Amount Paid`),2)as total_amount
+from customer_purchase_dataset
+group by `Customer Name`
+having count(*)>1
+order by total_amount desc;
