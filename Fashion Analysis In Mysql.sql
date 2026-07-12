@@ -69,3 +69,7 @@ from customer_purchase_dataset
 group by `Customer Name`
 having count(*)>1
 order by total_amount desc;
+
+select min(`Total Amount Paid`),max(`Total Amount Paid`),avg(`Total Amount Paid`)
+from customer_purchase_dataset;
+
