@@ -73,3 +73,10 @@ order by total_amount desc;
 select min(`Total Amount Paid`),max(`Total Amount Paid`),avg(`Total Amount Paid`)
 from customer_purchase_dataset;
 
+select *,
+round(sum(`Total Amount Paid`) over(order by `Customer ID`),2)as Cumulative_sum
+from customer_purchase_dataset;
+
+select `Customer Name`,age,gender,`Product name`,`Total Amount Paid`
+from customer_purchase_dataset
+where gender = 'Female' and age between 0 and 18;
