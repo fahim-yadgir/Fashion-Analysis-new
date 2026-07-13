@@ -86,3 +86,29 @@ from customer_purchase_dataset
 group by brand
 order by total_amount_paid desc
 limit 10;
+
+select brand,avg(`Total Amount Paid`)as Average_Amount
+from customer_purchase_dataset
+group by brand;
+
+select brand , round(sum(`Unit Selling Price`),2)as Total_sales,round(sum(Quantity),2)as total_quantity,round(avg(`Customer Rating`),2)as avg_customer_rating
+from customer_purchase_dataset
+group by brand
+order by Total_sales desc;
+
+select City,avg(`Unit Selling Price`)
+from customer_purchase_dataset
+group by city
+having avg(`Unit Selling Price`) > 700;
+
+select `Payment Method`,max(`Total Amount Paid`)as high_payment_amount
+from customer_purchase_dataset
+group by `Payment Method`
+order by high_payment_amount desc
+limit 1;
+
+select `Product Name`,max(Quantity)as highest_quantity
+from customer_purchase_dataset
+group by `Product Name`
+order by highest_quantity desc
+limit 1;
