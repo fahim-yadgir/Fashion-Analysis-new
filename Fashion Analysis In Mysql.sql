@@ -128,3 +128,7 @@ from customer_purchase_dataset
 group by `Shopping App`
 order by highest_seling_app desc 
 limit 1;
+
+select `Customer ID`,`Customer Name`,`Total Amount Paid`,
+rank() over(partition by `Customer Name` order by `Total Amount Paid` desc)as spending_money_rank
+from customer_purchase_dataset;
