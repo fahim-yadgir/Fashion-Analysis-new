@@ -122,3 +122,9 @@ select month(`Purchase Date`)as months,round(sum(`Total Amount Paid`),2)as month
 from customer_purchase_dataset
 group by month(`Purchase Date`)
 order by months;
+
+select `Shopping App` , round(sum(`Total Amount Paid`),2)as highest_seling_app
+from customer_purchase_dataset
+group by `Shopping App`
+order by highest_seling_app desc 
+limit 1;
