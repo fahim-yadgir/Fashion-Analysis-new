@@ -112,3 +112,8 @@ from customer_purchase_dataset
 group by `Product Name`
 order by highest_quantity desc
 limit 1;
+
+select `Customer Name`,count(*)as total_count
+from customer_purchase_dataset
+group by `Customer Name`
+having count(*) >= 5;
