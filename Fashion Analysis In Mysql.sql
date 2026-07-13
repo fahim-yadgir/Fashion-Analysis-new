@@ -117,3 +117,8 @@ select `Customer Name`,count(*)as total_count
 from customer_purchase_dataset
 group by `Customer Name`
 having count(*) >= 5;
+
+select month(`Purchase Date`)as months,round(sum(`Total Amount Paid`),2)as monthly_Sales
+from customer_purchase_dataset
+group by month(`Purchase Date`)
+order by months;
