@@ -141,3 +141,13 @@ select `Order Status` ,round(avg(`Customer Rating`),2)as avg_customer_rating
 from customer_purchase_dataset
 group by `Order Status`
 having avg(`Customer Rating`) > 3;
+
+create view Mumbai_info as
+select * ,
+round(sum(`Total Amount Paid`) over(order by `Customer ID`),2)
+from customer_purchase_dataset
+where city = 'Mumbai';
+
+drop view Mumbai_info;
+
+select * from Mumbai_info;
