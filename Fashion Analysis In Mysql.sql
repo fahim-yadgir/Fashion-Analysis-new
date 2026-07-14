@@ -151,3 +151,11 @@ where city = 'Mumbai';
 drop view Mumbai_info;
 
 select * from Mumbai_info;
+
+create view Pune_info as
+select * ,
+round(sum(`Total Amount Paid`) over(order by `Customer ID`),2)
+from customer_purchase_dataset
+where city = 'Pune';
+
+select * from Pune_info;
