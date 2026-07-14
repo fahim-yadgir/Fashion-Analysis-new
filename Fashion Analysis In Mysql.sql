@@ -159,3 +159,9 @@ from customer_purchase_dataset
 where city = 'Pune';
 
 select * from Pune_info;
+
+select age,sum(`Total Amount Paid`)as max_revenue
+from customer_purchase_dataset
+group by age
+order by max_revenue desc
+-- limit 1;
