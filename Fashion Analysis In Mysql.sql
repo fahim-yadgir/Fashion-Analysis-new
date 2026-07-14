@@ -130,5 +130,14 @@ order by highest_seling_app desc
 limit 1;
 
 select `Customer ID`,`Customer Name`,`Total Amount Paid`,
-rank() over(partition by `Customer Name` order by `Total Amount Paid` desc)as spending_money_rank
+rank() over(partition by `Customer Name` order by `Total Amount Paid`)as spending_money_rank
 from customer_purchase_dataset;
+
+select * ,
+dense_rank() over(partition by `Product Name` order by `Total Amount Paid`)as Top_3_highest_selling
+from customer_purchase_dataset;
+
+select `Order Status` ,round(avg(`Customer Rating`),2)as avg_customer_rating
+from customer_purchase_dataset
+group by `Order Status`
+having avg(`Customer Rating`) > 3;
