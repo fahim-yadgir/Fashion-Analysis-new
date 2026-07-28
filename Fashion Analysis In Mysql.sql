@@ -165,3 +165,21 @@ from customer_purchase_dataset
 group by age
 order by max_revenue desc
 -- limit 1;
+
+delimiter $$
+create procedure Change_order_status(
+in c_id varchar(50) ,
+in order_status varchar(50)
+)
+begin 
+update customer_purchase_dataset 
+set `Order Status` = order_status
+where `Customer ID` = c_id;
+end $$
+delimiter ;
+
+drop procedure Change_order_status;
+
+call Change_order_status ('CUST00001','Cancelled');
+
+select * from customer_purchase_dataset;
