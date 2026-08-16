@@ -185,4 +185,14 @@ call Change_order_status ('CUST00001','Cancelled');
 select * from customer_purchase_dataset;
 
 
+create view Kolkata_info as
+(
+select * from customer_purchase_dataset
+where city = 'Kolkata'
+);
 
+select * from Kolkata_info;
+
+select * from customer_purchase_dataset
+where `Purchase Date` between '2025-01-01' and '2025-12-31' and city = 'Pune'
+order by `Purchase Date` asc;
