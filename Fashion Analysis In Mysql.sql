@@ -196,3 +196,10 @@ select * from Kolkata_info;
 select * from customer_purchase_dataset
 where `Purchase Date` between '2025-01-01' and '2025-12-31' and city = 'Pune'
 order by `Purchase Date` asc;
+
+start transaction;
+update customer_purchase_dataset
+set `Customer Name` = 'Fahim Yadgir'
+where `Customer ID` = 'CUST00001';
+commit ;
+rollback;
