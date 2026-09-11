@@ -203,3 +203,21 @@ set `Customer Name` = 'Fahim Yadgir'
 where `Customer ID` = 'CUST00001';
 commit ;
 rollback;
+
+delimiter $$
+create procedure change_Cname
+(
+in c_id text,
+in c_name text
+)
+begin 
+update customer_purchase_dataset
+set `Customer Name` = c_name
+where `Customer ID` = c_id;
+select * from customer_purchase_dataset;
+end $$
+delimiter ;
+
+start transaction;
+call change_Cname("CUST00002","Ashrah Shaikh");
+commit;
