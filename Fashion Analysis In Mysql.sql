@@ -221,3 +221,12 @@ delimiter ;
 start transaction;
 call change_Cname("CUST00002","Ashrah Shaikh");
 commit;
+
+select sub.city ,sub.`Customer Name`, sub.`Total Amount Paid` 
+from
+	(
+		select `Customer Name`,city , `Total Amount Paid` , dense_rank() over(partition by city order by `Total Amount Paid` desc)as total_amount
+        from customer_purchase_dataset
+    )as sub
+where total_amount <= 3;
+
